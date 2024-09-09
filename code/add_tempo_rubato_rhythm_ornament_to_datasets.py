@@ -2,10 +2,10 @@
 Author: Morgan Rivers
 Date: Sept 7, 2024
 
-This script augments the existing dataset with the categories of "tempo", "rythm", "ornament" and "rubato",
+This script augments the existing dataset with the categories of "tempo", "rythm", and "ornament",
 which have been identified in the Nature paper "Contextual and combinatorial structure in sperm whale vocalisations"
 as a way to make it easy for the training of transformers and the application of other techniques in
-language decoding.
+language decoding. Rubato is added in the generate_whale_dialogue_txt_with_proper_timings.py file.
 
 See construct_string function comment below for more detail on the scheme used in this script.
 """
@@ -93,45 +93,6 @@ def interrupted(i):
         else:
             return -1
 
-def get_rubato():
-    """
-    NOTE: I COULD NOT EXACTLY FIGURE OUT HOW TO GET RUBATO, SO I"VE ABANDONED THIS FOR NOW, IT'S UNUSED
-    Return the category of rubato for each coda in the dataset as a list.
-    Rubato is the relationship (change in duration) between "interrupted" codas
-    """
-    inter_eq =[] # the duration of previous and next coda as a tuple (a 2 element array)
-    for i in range(len(extra_click)): # (for all codas)
-        if extra_click[i]!=1: # if this was not an ornamented coda
-            if interrupted(i-1) == i and extra_click[i-1]!=1 and file_names[i][:6]==file_names[i-1][:6]:
-                # if this coda is interrupting the previous one, and the previous coda was not ornamented (with an extra click)
-                # and this is part of the same whale conversation as the previous coda
-                duration_curr = durs[i]
-                duration_prev = durs[i-1]
-                inter_eq.append([duration_prev,duration_curr])
-            else:
-                inter_eq.append([np.nan,np.nan]) # this is not a coda continuing on last coda, so can't determine rubato
-        else:
-            inter_eq.append([np.nan,np.nan]) # this is not a coda continuing on last coda, so can't have rubato
-
-    # Calculate Rubato using inter_eq
-    val_x = [pair[0] for pair in inter_eq]
-    val_y = [pair[1] for pair in inter_eq]
-    rubato = [x-y for x, y in zip(val_x, val_y)]
-
-    # Apply binning to rubato
-    bins = [-np.inf, -0.1, 0.25, np.inf] # this represents the descending (\), constant (-) and rising (/) tempos
-    names = ['\\', '-', '/']
-
-    rubato_binned = pd.cut(rubato, bins, labels=names)
-
-    # If rubato is np.nan, pd.cut will return NaN. The fillna('') line below will replace these NaNs with an empty string.
-    rubato_binned = rubato_binned.add_categories('')
-    rubato_binned = rubato_binned.fillna('')
-
-    return rubato_binned
-
-# Add Rubato to data # NOTE: REMOVING THIS FOR NOW AS WAS NOT CORRECT
-data['Rubato'] = [''] * len(get_rubato()) # (no rubato ever added)
 
 # Create the DataFrame
 df = pd.DataFrame(data)
@@ -146,19 +107,18 @@ def construct_string(data):
       Otherwise its lowercase.
     - If the coda is interrupting a previous coda, the relative duration of this second coda defines its rubato.
       Most coda durations are constant (-), but sometimes the duration reduces (\) and sometimes it increases (/).
-      Non-interrupting codas do not have rubatos appended.
+      Non-interrupting codas do not have rubatos appended. NOTE: Rubato is only added in generate_whale_dialogue_txt_with_proper_timings.py
 
     For example, the coda rythm category 13, which is typically labelled 5R3 (just making this up as an example, that's probably wrong)
     might get a letter "h" or "H". If it's not ornamented, then we would have it be "h" as the lowercase. Then, we
     Append a number between 1 and 5 for the tempo category, 1 if slow, 5 if very fast. Let's say it's in the middle at 3.
     And finally if this is interrupting a previous whale vocalization, but it has a statistically significant increased tempo
     than the other, it would be the "/" rubato tag appended, leaving us with the "word" spelled like:
-    "h3/"
+    "/h3"
     All codas are represented with between 2 and three characters depending on if they have rubato.
     """
-    print(data['Rhythm'])
     rhythm = chr(ord('a') + data['Rhythm']).upper() if data['Extra Click'] == 1 else chr(ord('a') + data['Rhythm'])
-    return rhythm + str(data['Tempo'] + 1) #+ data['Rubato'] REMOVED THE RUBATO AS WASN'T WORKING
+    return rhythm + str(data['Tempo'] + 1)
 
 # Create new column 'ConstructedString'
 df['ConstructedString'] = df.apply(construct_string, axis=1)
