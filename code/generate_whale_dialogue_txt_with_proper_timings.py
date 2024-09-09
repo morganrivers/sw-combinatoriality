@@ -97,6 +97,63 @@ starting_book =0
 rootname='sw061b'
 # duration_page = 60*3 # seconds for the horizontal axis
 
+def determine_rubato(word_string_previous, word_string, click_times_previous, click_times,t_diff):
+    if t_diff > 10:
+        return " "
+
+    assert word_string[0].lower() in ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r']
+    assert word_string_previous[0].lower() in ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r']
+
+    if word_string[0].isupper():
+        # Ignore click if just for ornament
+        coda_duration_without_ornament = click_times[-2]
+    else:
+        coda_duration_without_ornament = click_times[-1]
+
+    if word_string_previous[0].isupper():
+        # Ignore click if just for ornament
+        coda_duration_without_ornament_previous = click_times_previous[-2]
+    else:
+        coda_duration_without_ornament_previous = click_times_previous[-1]
+    # print(word_string_previous.lower()[0:3]) # no rubato
+    # print(word_string.lower()[0:3]) # no rubato
+    # print()
+    rhythm_previous = word_string_previous.lower()[0:2]
+    rhythm = word_string.lower()[0:2]
+    tempo_previous = word_string_previous.lower()[0:2]
+    tempo = word_string.lower()[0:2]
+
+    # the supplement to the paper defines rubato as change of duration within the same tempo and rhythm class
+    # however, a histogram statistical plot of the duration delta does not show any sort of bimodal results when
+    # these return " ". Also, the durations tend to match between codas regardless of rhythm is a key result of
+    # the paper. So it would maybe make sense to remove these returns. I guess tempo category would convey the appropiate
+    # Information regardless though.
+    if rhythm_previous != rhythm:
+        return " "
+
+    if tempo_previous != tempo:
+        return " "
+
+    duration_delta = coda_duration_without_ornament - coda_duration_without_ornament_previous
+
+    return duration_delta
+
+def categorize_rubato(rubato):
+    # quantile_25th = np.percentile(numeric_rubato_deltas, 25)
+    quantile_25th = -0.021416925000000087
+    # quantile_75th = np.percentile(numeric_rubato_deltas, 75)
+    quantile_75th = 0.018462550000000105
+
+    # Assign categories based on these quantiles
+    if rubato < quantile_25th:
+        # Decreasing
+        return str("\\")
+    elif rubato < quantile_75th:
+        # constant
+        return str("-")
+    else:
+        # increasing
+        return str("/")
 
 # Change this value depending on how many audiofiles you want to see plotted (one audio file may be split into several pages)
 num_audiobooks = len(edited) # max value it can take = len(edited)
@@ -104,6 +161,7 @@ num_audiobooks = len(edited) # max value it can take = len(edited)
 # Initialize an empty list to hold the dialogues
 dialogues = []
 # with open('../data/whale_dialogues_with_choruses.txt', 'w') as f:
+rubato_deltas = []
 for idx in range(num_audiobooks):
     book = edited[idx][0]
     words = edited[idx][1]
@@ -171,11 +229,68 @@ for idx in range(num_audiobooks):
         [whale_number_next, t_init_next, word_string_next, num_clicks_next, click_times_next,label_next] = parseCoda(i_next)
         i_previous = getPreviousCoda(i, whale_number)
         [whale_number_previous, t_init_previous, word_string_previous, num_clicks_previous, click_times_previous,label_previous] = parseCoda(i_previous)
+        rubato_string = " "
+        if i_previous != -1: # not the first item
+            t_diff = t_init - t_init_previous
+            rubato = determine_rubato(word_string_previous, word_string, click_times_previous, click_times,t_diff)
+            if rubato != " ":
+                rubato_deltas.append(rubato)
+                rubato_string = categorize_rubato(rubato)
         dialogues[-1]['dialogue'].append({
             'whale': whale_number,
-            'text': word_string,
+            'text': rubato_string+word_string, # the rubato comes between previous coda and this one, so put before.
             'timestamp': t_init
         })
+
+""" Uncomment block below to see how rubato percentiles we calculated.
+def plot_histogram_and_print_percentiles(rubato_deltas):
+    import matplotlib.pyplot as plt
+    plt.figure()
+    plt.hist(rubato_deltas, bins=300, color='blue')  # Adjust number of bins as needed
+    plt.title('Histogram of Rubato Deltas')
+    plt.xlabel('Rubato Delta')
+    plt.ylabel('Frequency')
+    plt.show()
+
+    # Calculate the 25th and 75th quantiles
+    quantile_25th = np.percentile(rubato_deltas, 25)
+    quantile_75th = np.percentile(rubato_deltas, 75)
+
+    # Separate data based on quantiles
+    data_decreasing = [delta for delta in rubato_deltas if delta < quantile_25th]
+    data_constant = [delta for delta in rubato_deltas if quantile_25th <= delta <= quantile_75th]
+    data_increasing = [delta for delta in rubato_deltas if delta > quantile_75th]
+
+    # Prepare bins to be consistent across histograms
+    bins = np.histogram_bin_edges(rubato_deltas, bins=100)  # Define bins from the entire data range
+
+    # Plot three histograms and capture the bin counts
+    fig, ax = plt.subplots()
+    counts_decreasing, _, _ = ax.hist(data_decreasing, bins=bins, color='red', alpha=0.5, label='Decreasing')
+    counts_constant, _, _ = ax.hist(data_constant, bins=bins, color='green', alpha=0.5, label='Constant')
+    counts_increasing, _, _ = ax.hist(data_increasing, bins=bins, color='blue', alpha=0.5, label='Increasing')
+
+    # Determine the maximum y-value across all histograms for consistent y-axis
+    max_count = max(max(counts_decreasing), max(counts_constant), max(counts_increasing))
+    ax.set_ylim([0, max_count])  # Set the y-axis limit to the maximum count
+
+    # Add titles and labels
+    ax.set_title('Histogram of Rubato Deltas with Quantile Ranges')
+    ax.set_xlabel('Rubato Delta')
+    ax.set_ylabel('Frequency')
+
+    # Add legend
+    ax.legend()
+
+    # Show plot
+    plt.show()
+
+    print("quantile_25th")
+    print(quantile_25th)
+    print("quantile_75th")
+    print(quantile_75th)
+plot_histogram_and_print_percentiles(rubato_deltas)
+"""
 
 def print_chorus(chorus_whales_data, f):
     sorted_keys = sorted(chorus_whales_data)  # Sort the keys of the dictionary
@@ -214,7 +329,7 @@ def print_time_no_vocalizations(time_diff,f):
         unit_label = "day"
     # Ensuring pluralization is correct based on the rounded number
     unit_label += "" if rounded == 1 else "s"
-    f.write(f"\nNo vocalizations, {int(rounded)} {unit_label}.\n\n")
+    f.write(f"\n(No vocalizations, {int(rounded)} {unit_label})\n\n")
 
 # Open the output file
 with open('../data/whale_dialogues.txt', 'w') as f:
