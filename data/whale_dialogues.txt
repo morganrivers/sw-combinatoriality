@@ -1,7 +1,4 @@
-
 File: sw061b
-
-Long pause, nan seconds.
 Whale 1: r3 r5 c3 c3 c3 c3 c3.
 In chorus, whales 1, 2: c3 a3-.
 In chorus, whales 1, 2: c3 C4.
@@ -17,27 +14,26 @@ Whale 2: a4.
 Whale 1: c4-.
 Whale 2: a4.
 Whale 1: c4-.
-Whale 2: a4 a4 c4- a4 c4- a4 c4-.
 In chorus, whales 1, 2: c4- a4.
 In chorus, whales 1, 2: c4- a4.
 Whale 2: a4 a4 a4.
-Whale 1: a4 a4 a4 r5.
+Whale 1: r5.
 In chorus, whales 1, 2: R5 a4.
 
-Long pause, 25.0 seconds.
+No vocalizations, 25 seconds.
+
 Whale 2: a3.
-Whale 1: a3.
 In chorus, whales 1, 2: r5 a4-.
 In chorus, whales 1, 2: r4\ a3.
 In chorus, whales 1, 2: R5 a3.
 In chorus, whales 1, 2: r4 a3-.
 Whale 1: r4 r5.
-Whale 2: r4 r5.
 In chorus, whales 1, 2: c3/ r5.
+Whale 1: c3 Q4.
 
-Long pause, 230.0 seconds.
-Whale 1: c3 Q4 L1 n1 e1 c1.
-Whale 2: c3 Q4 L1 n1 e1 c1.
+No vocalizations, 3 minutes.
+
+Whale 1: L1 n1 e1 c1.
 In chorus, whales 1, 2: Q1 f1.
 Whale 2: f1 f1.
 Whale 1: e1.
@@ -45,26 +41,27 @@ Whale 2: f1.
 Whale 1: e1.
 Whale 2: f1.
 Whale 1: e1.
-Whale 2: f1 f1 e1 f1 e1 f1 e1.
 In chorus, whales 1, 2: c1/ q3.
 In chorus, whales 1, 2: e1/ a3.
 Whale 1: Q1.
 Whale 2: a3.
 Whale 1: e1.
 Whale 2: a3.
-Whale 1: Q1 a3 e1 a3.
 In chorus, whales 1, 2: c1 a3\.
 In chorus, whales 1, 2: e1 a3\.
 Whale 1: Q1.
 Whale 2: a3.
 
-Long pause, 25.0 seconds.
-Whale 1: Q1 a3 Q1.
-In chorus, whales 1, 2: e1 f1-.
-In chorus, whales 1, 2: e1 f1-.
+No vocalizations, 25 seconds.
 
-Long pause, 3225.0 seconds.
-Whale 1: Q1 Q5.
+Whale 1: Q1.
+In chorus, whales 1, 2: e1 f1-.
+In chorus, whales 1, 2: e1 f1-.
+Whale 1: Q1.
+
+No vocalizations, 55 minutes.
+
+Whale 1: Q5.
 In chorus, whales 1, 2: c4 d3-.
 In chorus, whales 1, 2: c4- a3.
 In chorus, whales 1, 2: c3- a3.
@@ -72,18 +69,15 @@ Whale 2: a3 a3.
 Whale 1: c4.
 Whale 2: a3.
 Whale 1: c4-.
-Whale 2: a3 a3 c4 a3 c4-.
 In chorus, whales 1, 2: c4- a4.
 In chorus, whales 1, 2: K5 a4.
 Whale 2: a4 a5.
 In chorus, whales 1, 2: c5- a5.
 Whale 1: c5.
-Whale 2: c5.
 In chorus, whales 1, 2: c5/ r5.
 In chorus, whales 1, 2: c4- a4.
 Whale 1: c4.
 Whale 2: a4-.
-Whale 1: c4 a4-.
 In chorus, whales 1, 2: j5 a3/.
 In chorus, whales 1, 2: r5\ a3.
 In chorus, whales 1, 2: R5 a3.
@@ -91,63 +85,68 @@ In chorus, whales 1, 2: r4- a4.
 In chorus, whales 1, 2: r4 a4-.
 In chorus, whales 1, 2: c3- a3.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c3/ r5.
 Whale 1: c3 c3 c3.
 
-Long pause, 345.0 seconds.
+No vocalizations, 5 minutes.
+
 Whale 2: f1.
 Whale 1: Q1.
-Whale 2: c3 c3 c3 f1 Q1.
 In chorus, whales 1, 2: c1- f1.
 Whale 2: f1.
-Whale 1: f1 c1.
+Whale 1: c1.
 In chorus, whales 1, 2: Q1 f1.
 In chorus, whales 1, 2: e1- f1.
 Whale 2: f1.
 Whale 1: e1 e1 c1 e1 c1 Q1 c1.
 
-Long pause, 25.0 seconds.
+No vocalizations, 25 seconds.
 
-Long pause, 10.0 seconds.
+Whale 2: i1 i1.
 
-Long pause, 20.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 2480.0 seconds.
+Whale 2: N1.
 
-Long pause, 170.0 seconds.
-Whale 2: i1 i1 N1 l1 i4 c3 c3 c3.
+No vocalizations, 20 seconds.
+
+Whale 2: l1.
+
+No vocalizations, 40 minutes.
+
+Whale 2: i4.
+
+No vocalizations, 2 minutes.
+
+Whale 2: c3 c3 c3.
 Whale 3: e3.
 Whale 2: e3 c3 e4 a3 e4.
 Whale 3: c3.
 Whale 2: c3.
 Whale 3: c3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: e3.
 Whale 3: Q3.
 Whale 2: e3.
-Whale 3: f1 e1 e1 c1 e1 c1 Q1 c1 i1 i1 N1 l1 i4 c3 c3 c3 e3 e3 c3 e4 a3 e4 c3 c3 c3 e3 Q3 e3.
 In chorus, whales 1, 3: q4\ e3.
 Whale 1: q5.
 Whale 2: e3/.
-Whale 1: q5 e3/.
 In chorus, whales 1, 2: c3 e2/.
 Whale 1: c3 c3.
 Whale 2: c3.
 Whale 1: c3 c4.
 Whale 5: c3.
 Whale 1: c4.
-Whale 6: c3 c3 c3 c3 c4 c3 c4.
 In chorus, whales 1, 6: c5\ c4.
 Whale 7: r1/.
 Whale 1: c5.
-Whale 9: r1/ c5.
 In chorus, whales 1, 9: c5\ c3.
 Whale 1: H5.
 
-Long pause, 10.0 seconds.
-Whale 2: H5.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
 Whale 1: c5-.
@@ -161,29 +160,34 @@ Whale 2: c5.
 Whale 1: c5.
 Whale 2: c5.
 Whale 1: Q4.
+Whale 2: c5.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 h5.
+No vocalizations, 10 seconds.
+
+Whale 2: h5.
 Whale 1: J5.
 Whale 2: r5.
 Whale 1: h5.
 Whale 2: q4.
 Whale 1: g5.
+Whale 2: c4/.
 
-Long pause, 640.0 seconds.
-Whale 2: c4/ e2 c3 c3 c4.
+No vocalizations, 10 minutes.
+
+Whale 2: e2 c3 c3 c4.
 Whale 3: m1 E2 a1.
 
-Long pause, 130.0 seconds.
+No vocalizations, 2 minutes.
+
 Whale 2: c3 c4.
 
-Long pause, 2950.0 seconds.
+No vocalizations, 50 minutes.
+
 Whale 1: r1.
-Whale 2: c5 c5- c5 c5- c5 c5- c5 c5 K4 c4 K5 c4 c4 c5 c5\ c5 c5 c5 c5 c5 Q4 c5 h5 J5 r5 h5 q4 g5 c4/ e2 c3 c3 c4 m1 E2 a1 c3 c4 r1 n1.
+Whale 2: n1.
 In chorus, whales 1, 2: e1- l1.
 Whale 2: f1.
 Whale 1: e1.
-Whale 2: f1 e1.
 In chorus, whales 1, 2: e1 f1.
 In chorus, whales 1, 2: c3\ f1.
 In chorus, whales 1, 2: c3 f1/.
@@ -192,22 +196,27 @@ Whale 1: c3.
 In chorus, whales 1, 2: c3 f1/.
 In chorus, whales 1, 2: c3 f1/.
 Whale 2: f1 f1 f1.
-Whale 1: f1 f1 f1.
 In chorus, whales 1, 2: Q1 f1.
 Whale 2: f1.
+Whale 1: c1 c1 e1 c1 e1 e1.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 45.0 seconds.
+Whale 1: e1 c1 c1 e1.
 
-Long pause, 10.0 seconds.
-Whale 1: c1 c1 e1 c1 e1 e1 e1 c1 c1 e1 O1 l1.
+No vocalizations, 45 seconds.
 
-Long pause, 2485.0 seconds.
+Whale 1: O1.
+
+No vocalizations, 10 seconds.
+
+Whale 1: l1.
+
+No vocalizations, 40 minutes.
+
 Whale 2: c5 c5 c5 c4.
 Whale 1: c5 c5.
 Whale 2: f2/.
-Whale 1: f1 c1 c1 e1 c1 e1 e1 e1 c1 c1 e1 O1 l1 c5 c5 c5 c4 c5 c5 f2/.
 In chorus, whales 1, 2: c5 c5/.
 Whale 1: c5 c5.
 Whale 2: c5.
@@ -215,41 +224,44 @@ Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c4.
-Whale 1: c5 c5 c5 c5 c5- c5 c4 c5.
+Whale 1: c5.
 In chorus, whales 1, 2: c5 c4-.
 In chorus, whales 1, 2: c5 c4-.
 Whale 2: c4.
-Whale 1: c4 c5 Q5 c5 c5 c5 c5.
+Whale 1: c5 Q5 c5 c5 c5 c5.
 In chorus, whales 1, 2: r5 a5/.
 In chorus, whales 1, 2: c3- a4.
-
-Long pause, 15.0 seconds.
 Whale 2: a5 a5 a5 a5 a5 a5.
+
+No vocalizations, 15 seconds.
+
 In chorus, whales 1, 2: c5- a5.
 In chorus, whales 1, 2: c5 a5-.
 In chorus, whales 1, 2: c5 a5-.
 Whale 1: c5.
 Whale 2: a5-.
-Whale 1: c5 a5-.
 In chorus, whales 1, 2: c5 a5-.
 In chorus, whales 1, 2: c5 a5-.
 In chorus, whales 1, 2: c5 a5-.
 Whale 1: c5.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
 
-Long pause, 20.0 seconds.
-Whale 2: a5 q5.
+Whale 2: a5.
+
+No vocalizations, 20 seconds.
+
+Whale 2: q5.
 Whale 1: h5.
 Whale 2: q5/.
 Whale 1: j5.
 Whale 2: j5.
 Whale 1: r5 r5.
 
-Long pause, 385.0 seconds.
+No vocalizations, 5 minutes.
+
 Whale 2: c3.
 Whale 3: c5.
-Whale 2: c5 a5 q5 h5 q5/ j5 j5 r5 r5 c3 c5.
 In chorus, whales 1, 2: c4\ c4.
 Whale 3: c5.
 Whale 2: c3.
@@ -261,31 +273,23 @@ Whale 1: g5.
 Whale 3: c3.
 Whale 1: c4.
 Whale 3: c4.
-Whale 1: c5 c3 c5\ c3 c4 c4 c4 c4 g5 c3 c4 c4.
 In chorus, whales 1, 2: c5 c4-.
 Whale 3: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c4\ c3.
 Whale 3: c3.
-Whale 1: c3.
 In chorus, whales 1, 2: c4 c3-.
 Whale 3: c3.
-Whale 1: c3.
 In chorus, whales 1, 2: c4 c3-.
 Whale 3: e3.
-Whale 1: e3.
 In chorus, whales 1, 2: c4 c3-.
 Whale 3: r2.
 Whale 1: c4.
-Whale 2: r2 c4.
 In chorus, whales 1, 2: c4- c4.
 Whale 3: c4.
-Whale 1: c4.
 In chorus, whales 1, 2: c4 c4-.
 In chorus, whales 1, 2, 3: c4\ c4- c3.
 Whale 1: c4.
 Whale 2: c4-.
-Whale 1: c4 c4-.
 In chorus, whales 1, 2: c4 c4-.
 In chorus, whales 1, 2: c4 c4-.
 In chorus, whales 1, 2: Q5 c4.
@@ -296,18 +300,15 @@ Whale 3: c5.
 Whale 2: c4.
 Whale 3: c4-.
 Whale 2: Q5.
-Whale 3: c4 c5\ Q4 c5 c4 c4- Q5.
 In chorus, whales 3, 4: c4 C5.
 In chorus, whales 1, 2: q5- c5.
 Whale 3: H5.
 Whale 4: a4.
 Whale 1: q5\.
-Whale 2: H5 a4 q5\.
 In chorus, whales 2, 3: c4 c4\.
 In chorus, whales 2, 4: c3- a4.
 Whale 5: c3.
 Whale 6: c3.
-Whale 1: c3 c3.
 In chorus, whales 1, 2: r4 c3-.
 Whale 1: r4 r4 e1.
 Whale 4: a3.
@@ -324,10 +325,8 @@ Whale 3: c3-.
 Whale 4: a3-.
 Whale 1: r4.
 Whale 4: a3.
-Whale 1: r4 r4 e1 a3 r4 a3 c3 r4 a3 c3- R4 a3 r4 c3- a3- r4 a3.
 In chorus, whales 1, 2: q4 c3-.
 Whale 4: a3-.
-Whale 2: a3-.
 In chorus, whales 1, 2, 3, 4: c3- c3 c3\ a3-.
 In chorus, whales 1, 2, 3: c3- c3 Q3.
 In chorus, whales 1, 2, 4: c3- c3 a3-.
@@ -337,14 +336,16 @@ In chorus, whales 2, 4: c3 a3-.
 In chorus, whales 2, 3: e2 a3\.
 In chorus, whales 2, 3: e2 a3\.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 3: a5.
 Whale 2: c5-.
 Whale 3: a5 a5 a5.
 Whale 2: Q5.
 Whale 3: a5 a4 a4 a3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: j5.
 Whale 3: a4 a4 a4 a3.
 Whale 1: c4.
@@ -352,29 +353,30 @@ Whale 3: a3.
 Whale 1: c4.
 Whale 3: a3.
 Whale 1: c4 c3.
+Whale 3: a5.
 
-Long pause, 10.0 seconds.
-Whale 3: a5 a5.
+No vocalizations, 10 seconds.
 
-Long pause, 65.0 seconds.
+Whale 3: a5.
+
+No vocalizations, 1 minute.
+
 Whale 2: r5.
 Whale 1: c4 c4.
 
-Long pause, 10.0 seconds.
-Whale 4: a5 c5- a5 a5 a5 Q5 a5 a4 a4 a3 j5 a4 a4 a4 a3 c4 a3 c4 a3 c4 c3 a5 a5 r5 c4 c4.
+No vocalizations, 10 seconds.
+
 In chorus, whales 3, 4: e3/ r5.
 Whale 2: e3.
 Whale 5: a4.
 Whale 1: c4.
-Whale 3: e3 a4 c4.
 In chorus, whales 2, 3: c3- r4.
 Whale 2: a3.
 Whale 3: c3.
 Whale 4: a3.
-Whale 1: a3 c3 a3 r5.
+Whale 1: r5.
 In chorus, whales 1, 2: r5 a2/.
 Whale 1: r5 r5 r5 r5 r4.
-Whale 2: r5 r5 r5 r5 r4.
 In chorus, whales 2, 3: a3/ a3-.
 In chorus, whales 1, 2, 3: c3 a3- a3-.
 Whale 1: Q3.
@@ -384,12 +386,10 @@ Whale 2: a3.
 Whale 1: e3.
 Whale 2: a3.
 Whale 1: c3.
-Whale 2: Q3 a3 e3 a3 e3 a3 c3.
 In chorus, whales 1, 2: c3- a3.
 Whale 1: e3.
 Whale 2: a4.
 Whale 1: c3- c3 c3.
-Whale 2: e3 a4 c3- c3 c3.
 In chorus, whales 2, 3: a4 a3-.
 Whale 1: c3.
 Whale 2: a3.
@@ -398,24 +398,24 @@ Whale 2: a3 a3.
 Whale 1: c3.
 Whale 3: C5.
 Whale 2: E5.
+Whale 1: c3.
 
-Long pause, 625.0 seconds.
-Whale 1: c3 e1.
+No vocalizations, 10 minutes.
+
+Whale 1: e1.
 Whale 2: e2.
 Whale 1: c3.
-Whale 2: c3 a3 c3 a3 a3 c3 C5 E5 c3 e1 e2 c3.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 1, 2: c3 c3-.
 In chorus, whales 1, 2: c3- c3.
 Whale 1: c3.
 Whale 2: c3 c3.
-Whale 1: c3 c3 c3.
 In chorus, whales 1, 2: c3 c4\.
 Whale 2: c5.
 Whale 1: c4-.
 Whale 2: c5.
 Whale 1: c4.
-Whale 2: c5 c4- c5 c4 c5.
+Whale 2: c5.
 In chorus, whales 1, 2: c4- c5.
 In chorus, whales 1, 2: c4- c5.
 Whale 2: c5.
@@ -436,39 +436,31 @@ Whale 3: c5.
 Whale 4: c3.
 Whale 3: c4.
 Whale 4: c3.
-Whale 2: c5 c4- c5 c4- c5 c4- c5 c4 c5 c4- c5 c4- c4 c4 c4 c4 c4 c4 c4 i2 c3 e3 c3 c5 c3 c4 c3.
 In chorus, whales 1, 2, 3: c5- c3 c4\.
 Whale 2: c4.
 Whale 1: c5\.
 Whale 3: c3/.
-Whale 1: c4 c5\ c3/.
 In chorus, whales 1, 2: c4 c4-.
 Whale 3: c3.
-Whale 1: c3.
 In chorus, whales 1, 2, 3: c4 c4- c3-.
 Whale 1: c4.
 Whale 2: c4-.
-Whale 1: c4 c4-.
 In chorus, whales 1, 2: c5 c4-.
 Whale 1: c4 c4.
 Whale 2: a4.
 Whale 3: c3.
 Whale 4: a3-.
-Whale 3: c4 c4 a4 c3 a3-.
 In chorus, whales 1, 3: c3- c3.
 Whale 2: a3.
 In chorus, whales 1, 2, 3: c3- c3 a3-.
 Whale 2: Q4.
-Whale 1: Q4.
 In chorus, whales 1, 3: c3 a3-.
 Whale 2: c3.
-Whale 1: c3.
 In chorus, whales 1, 3: c3- a3-.
 In chorus, whales 1, 2, 3: c3- c3 a3-.
 In chorus, whales 1, 2, 3: c3- c3 a3-.
 Whale 2: c3.
 Whale 1: c3-.
-Whale 2: c3 c3-.
 In chorus, whales 1, 2: a3- c3.
 Whale 2: c3.
 Whale 1: c4.
@@ -476,48 +468,42 @@ Whale 2: c3.
 Whale 1: c4.
 Whale 3: a4-.
 Whale 2: e3.
-Whale 1: c3 c4 c3 c4 a4- e3.
 In chorus, whales 1, 3: H5 a4.
 Whale 2: c3.
-Whale 1: c3.
 In chorus, whales 1, 2: c3 a4\.
 Whale 3: C3.
-Whale 1: C3.
 In chorus, whales 1, 2: c3 a4-.
 In chorus, whales 1, 2: c3 a4-.
 Whale 2: a4 a4.
 Whale 3: c3-.
 Whale 2: a4.
 Whale 3: c1 e1.
+Whale 2: C3.
 
-Long pause, 15.0 seconds.
-Whale 2: C3 c5 c3 a3.
+No vocalizations, 15 seconds.
+
+Whale 2: c5 c3 a3.
 Whale 3: c3 c3 c3.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: c5 c4.
 Whale 3: c3/.
-Whale 2: a4 a4 c3- a4 c1 e1 C3 c5 c3 a3 c3 c3 c3 c5 c4 c3/.
 In chorus, whales 2, 3: a5 c3/.
 Whale 4: c4.
-Whale 2: c4.
 In chorus, whales 2, 3: a5 d2/.
 Whale 4: c5.
 Whale 2: a4-.
-Whale 3: c5 a4-.
 In chorus, whales 2, 3: a4\ c3.
 Whale 2: a3.
 Whale 3: c4.
-Whale 2: a3 c4.
 In chorus, whales 2, 4: a3- a1/.
 Whale 2: a3.
 Whale 3: a3.
 Whale 4: C4.
-Whale 2: a3 a3 C4.
 In chorus, whales 2, 3: c3 a3-.
 Whale 3: c4.
 Whale 4: a3.
-Whale 2: c4 a3.
 In chorus, whales 2, 3: c3 c3-.
 Whale 2: c3.
 In chorus, whales 2, 3, 4: c3 a1/ a4\.
@@ -535,35 +521,40 @@ Whale 2: c5.
 Whale 3: c4.
 Whale 2: c3.
 Whale 3: a5.
-Whale 2: c3 a4 c3- a4 c5- a5 c5 a5 c5 c5 c5 c5 c4 c3 a5 c3 c3.
+Whale 2: c3 c3.
 In chorus, whales 2, 3: c3 a5\.
 Whale 2: c3.
+Whale 3: a5 a5.
 
-Long pause, 10.0 seconds.
-Whale 3: a5 a5 C4.
+No vocalizations, 10 seconds.
 
-Long pause, 20.0 seconds.
+Whale 3: C4.
+
+No vocalizations, 20 seconds.
+
 Whale 2: c4 Q3 b3 c3 c3 c3 c3 c3 c3 c3.
 Whale 1: c5\.
 Whale 2: c3.
 Whale 1: c4\ c4.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: r2 e1 e1 e2 a1 c3 c3 c3.
-Whale 3: c3 a5 a5 C4 c4 Q3 b3 c3 c3 c3 c3 c3 c3 c3 c5\ c3 c4\ c4 r2 e1 e1 e2 a1 c3 c3 c3.
 In chorus, whales 2, 3: c3/ c5.
 Whale 2: c5.
 In chorus, whales 2, 3: c5 c5-.
 Whale 2: c5.
 Whale 3: c4/.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: c5 c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 1: c5.
 Whale 2: c5 c4.
-Whale 1: c5 c4/ c5 c5 c5 c5 c4 c5 c5.
+Whale 1: c5 c5.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5 c5-.
@@ -573,36 +564,44 @@ In chorus, whales 1, 2: Q5 c4.
 In chorus, whales 1, 2: c4 c5-.
 Whale 1: c4.
 Whale 2: c4-.
-Whale 1: c4 c4-.
 In chorus, whales 1, 2: c4 c4-.
 In chorus, whales 1, 2: c5 c4-.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: c5.
 Whale 1: a1 b5.
+Whale 2: c5.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c5 c4.
+No vocalizations, 10 seconds.
+
+Whale 2: c5 c4.
 Whale 3: c5.
 Whale 1: c4/.
 Whale 2: c4.
 Whale 3: c5.
-Whale 1: c5 a1 b5 c5 c5 c4 c5 c4/ c4 c5.
 In chorus, whales 1, 4: c5- c3-.
 In chorus, whales 1, 2, 3: c5\ c4 c5-.
 In chorus, whales 2, 3: c4 c5\.
 Whale 1: c5.
-Whale 3: c5.
 In chorus, whales 2, 3: c4- c3/.
+Whale 2: e4 c3 c3 c4 h5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 35.0 seconds.
+Whale 2: c5 H5 c3 c3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 35 seconds.
 
-Long pause, 405.0 seconds.
-Whale 2: e4 c3 c3 c4 h5 c5 H5 c3 c3 H4 q4 c4 c3 c3 c3.
+Whale 2: H4 q4.
+
+No vocalizations, 10 seconds.
+
+Whale 2: c4 c3 c3.
+
+No vocalizations, 5 minutes.
+
+Whale 2: c3.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 1, 2: c3- c3.
@@ -613,11 +612,9 @@ In chorus, whales 1, 2: c3 e2/.
 In chorus, whales 1, 2: c4/ c5.
 Whale 2: c5.
 Whale 1: c4-.
-Whale 2: c5 c4-.
 In chorus, whales 1, 2: c4- c5.
 Whale 2: c5.
 Whale 1: c4-.
-Whale 2: c5 c4-.
 In chorus, whales 1, 2: c4- c5.
 Whale 2: c5.
 Whale 1: c5-.
@@ -642,68 +639,68 @@ Whale 1: c5-.
 Whale 2: c5 c5 c5 c5 c5.
 Whale 1: Q5.
 Whale 3: e2.
-Whale 2: c5 c5- c5 c5- c5 c5- c5 c5- c5 c4- c5 c5- c5 c5- c5 c5- c5 c5- c5 c5 c5- c5 c5 c5 c5 c5 Q5 e2 c5.
+Whale 2: c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
-Whale 1: c5.
 In chorus, whales 1, 3: Q5 c3.
 Whale 3: c2.
 Whale 2: c5.
 Whale 1: c5-.
-Whale 3: c2 c5 c5-.
 In chorus, whales 2, 3: c5\ c3.
 Whale 1: c5.
 Whale 3: c3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 10.0 seconds.
-Whale 2: c4 j5 h3 c3 c3 c3 q5 h4 j5 g5 q5 q4 c3 c3 c3.
+Whale 2: c4 j5 h3 c3 c3 c3.
 
-Long pause, 35.0 seconds.
-Whale 1: c5 c3 c4 j5 h3 c3 c3 c3 q5 h4 j5 g5 q5 q4 c3 c3 c3 c5.
+No vocalizations, 10 seconds.
+
+Whale 2: q5 h4 j5 g5 q5 q4 c3 c3 c3.
+
+No vocalizations, 35 seconds.
+
+Whale 1: c5.
 In chorus, whales 1, 2: c5 a4-.
 In chorus, whales 1, 2: c4 a4-.
 In chorus, whales 1, 2: c4- a4.
 In chorus, whales 1, 2, 3: c3- a3 r1.
 Whale 3: c5\.
-Whale 2: c5\.
 In chorus, whales 1, 2: Q3 a3/.
 Whale 3: c5.
-Whale 2: c5.
 In chorus, whales 1, 2: c3- a3/.
 In chorus, whales 2, 3: a3/ c5.
 In chorus, whales 1, 2: c3 a3-.
 
-Long pause, 185.0 seconds.
+No vocalizations, 3 minutes.
+
 In chorus, whales 1, 2: R5 a4.
 Whale 1: r5.
 Whale 2: a3-.
-Whale 1: r5 a3- r4 c3.
+Whale 1: r4 c3.
 In chorus, whales 1, 2: c3 a3-.
 Whale 2: a3.
 Whale 1: c5.
-Whale 2: a3 c5 a4-.
+Whale 2: a4-.
 In chorus, whales 1, 2: c4- a4.
 
-Long pause, 45.0 seconds.
+No vocalizations, 45 seconds.
+
 Whale 2: e3.
 Whale 3: e1 e1.
 Whale 2: c3.
 Whale 3: c3.
-Whale 2: e3 e1 e1 c3 c3.
 In chorus, whales 2, 3: c3 c3-.
 Whale 2: c3.
 Whale 3: c3-.
 Whale 2: e3.
 Whale 3: c3- r2 c3.
 Whale 2: c3.
-Whale 3: c3 c3- e3 c3- r2 c3 c3.
 In chorus, whales 2, 3: e3- c3.
 In chorus, whales 2, 3: e2- a2.
 Whale 2: c3.
 Whale 3: c3.
-Whale 2: c3 c3 c3.
+Whale 2: c3.
 In chorus, whales 2, 3: e3 e3-.
 In chorus, whales 2, 3: c3 c3-.
 Whale 1: c4.
@@ -712,17 +709,14 @@ Whale 1: c4.
 Whale 2: e3 c3 c3 e1.
 Whale 3: e1.
 Whale 2: a2.
-Whale 3: c4 c3 c4 e3 c3 c3 e1 e1 a2.
 In chorus, whales 2, 3: a1- e1.
 Whale 2: e2.
 Whale 4: c3 c3 c3.
 Whale 2: c3.
-Whale 1: e2 c3 c3 c3 c3.
 In chorus, whales 1, 2, 5: c3 c3\ a1/.
 Whale 1: c3.
 Whale 3: c4-.
 Whale 4: c3-.
-Whale 1: c3 c4- c3-.
 In chorus, whales 1, 3: c3 c3-.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 1, 3: c3- c4.
@@ -739,23 +733,19 @@ Whale 2: a5.
 Whale 1: c4/.
 Whale 2: c5.
 Whale 1: c4-.
-Whale 2: c3 c4 c3 c4 c4 c5 Q5 c5 c4- a5 c4/ c5 c4- c5 c5 c5 c5 c5.
+Whale 2: c5 c5 c5 c5 c5.
 In chorus, whales 2, 4: e1 c5\.
 Whale 1: c5-.
 Whale 3: e1/.
-Whale 2: c5- e1/.
 In chorus, whales 2, 4: e1 c5\.
 Whale 1: c5-.
-Whale 2: c5-.
 In chorus, whales 2, 4: c3 c5\.
 Whale 1: c5-.
 Whale 4: c3.
-Whale 2: c5- c3.
 In chorus, whales 1, 2: c5- c5\.
 Whale 2: c3.
 Whale 3: c5\.
 Whale 4: c3.
-Whale 2: c3 c5\ c3.
 In chorus, whales 2, 3: e3 c5\.
 Whale 4: e3.
 Whale 2: c5.
@@ -763,7 +753,6 @@ Whale 1: c5-.
 Whale 2: c3.
 Whale 3: c5.
 Whale 1: c5-.
-Whale 3: e3 c5 c5- c3 c5 c5-.
 In chorus, whales 2, 3: c3- a4.
 Whale 4: c5\.
 Whale 1: c5-.
@@ -774,7 +763,6 @@ Whale 2: c3.
 Whale 1: c5.
 Whale 2: c3.
 Whale 1: c5\ c4.
-Whale 2: c5\ c5- a4 c3- c5 c3 c5 c3 c5\ c4.
 In chorus, whales 1, 2, 3: c4- a3 q5\.
 Whale 2: c5.
 Whale 1: c4-.
@@ -784,7 +772,6 @@ Whale 2: c5 c5 e3 c3 c4.
 Whale 1: c5.
 Whale 2: c4.
 Whale 1: c5\.
-Whale 2: c5 c4- c5 c4- c5 c5 e3 c3 c4 c5 c4 c5\.
 In chorus, whales 1, 2: c5- c5.
 Whale 1: c5 c5.
 Whale 2: c5.
@@ -795,17 +782,23 @@ Whale 2: c3 c3 c3 c5 c5 c4 c4 c3 c4.
 Whale 3: c4.
 Whale 2: c4.
 Whale 3: c4.
-Whale 2: c5 c5 c5 c5 c3/ c4 e2 c3 K3 c5 c3 c3 c3 c5 c5 c4 c4 c3 c4 c4 c4 c4 c4.
+Whale 2: c4.
 In chorus, whales 2, 3: c4 c4-.
 Whale 2: c4.
 Whale 3: c4.
+Whale 2: c5 c5 c4 c4 c3 c4 c5 Q3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 10.0 seconds.
+Whale 2: a3 c3 o1 r2 r2 r2 r2 r3 r4 r3 r2 r3 r1 r5 r2 e3 c3 c3 c3 r1 r3 q2 c3 r1 c3 r1 e3 n1.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c5 c4 c4 c3 c4 c5 Q3 a3 c3 o1 r2 r2 r2 r2 r3 r4 r3 r2 r3 r1 r5 r2 e3 c3 c3 c3 r1 r3 q2 c3 r1 c3 r1 e3 n1 e1 e1 r1 c3 c5.
+No vocalizations, 10 seconds.
+
+Whale 2: e1 e1 r1 c3.
+
+No vocalizations, 10 seconds.
+
+Whale 2: c5.
 Whale 3: c5.
 Whale 2: c4.
 Whale 3: c3.
@@ -817,34 +810,31 @@ Whale 2: c3.
 Whale 3: a1.
 Whale 2: c3.
 Whale 3: a5.
-Whale 2: c4 c4 c5 c5 c4 c4 c3 c4 c5 Q3 a3 c3 o1 r2 r2 r2 r2 r3 r4 r3 r2 r3 r1 r5 r2 e3 c3 c3 c3 r1 r3 q2 c3 r1 c3 r1 e3 n1 e1 e1 r1 c3 c5 c5 c4 c3 d2 c5 c4 e3 a2 c3 c3 a1 c3 a5.
 In chorus, whales 2, 4: c3 c3-.
 Whale 3: C5.
 Whale 2: Q4 c3 a5.
 
-Long pause, 25.0 seconds.
+No vocalizations, 25 seconds.
+
 Whale 3: a5 a5.
 Whale 2: b4 c4.
-Whale 3: C5 Q4 c3 a5 a5 a5 b4 c4.
 In chorus, whales 2, 3: c4- a4.
 In chorus, whales 2, 3: c4- a4.
 Whale 3: a4.
 Whale 2: c4-.
-Whale 3: a4 c4-.
 In chorus, whales 2, 3: c4- a4.
 In chorus, whales 2, 3: c4- a4.
 In chorus, whales 2, 3: c4- a4.
 In chorus, whales 2, 3: c4 a4-.
 Whale 2: Q5.
 Whale 3: a4.
-Whale 2: Q5 a4.
 In chorus, whales 2, 3: c4 a3-.
 Whale 4: c5.
 Whale 3: c4 c3 c4 Q4.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
+
 Whale 2: a5.
-Whale 3: c5 c4 c3 c4 Q4 a5.
 In chorus, whales 2, 3: a5- c5.
 In chorus, whales 2, 3: a5 c5-.
 Whale 2: a5 a5.
@@ -854,46 +844,42 @@ Whale 2: a5-.
 Whale 3: c5.
 Whale 2: a5-.
 Whale 3: c5 c5.
+Whale 2: a5 a5.
 
-Long pause, 15.0 seconds.
-Whale 2: c5 a5- c5 a5- c5 c5 a5 a5 c5.
+No vocalizations, 15 seconds.
+
+Whale 2: c5.
 In chorus, whales 2, 3: c5 h5\.
 In chorus, whales 2, 3: c5 h5-.
 Whale 2: c5.
-Whale 3: c5.
 In chorus, whales 2, 3: h5/ g5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: a5.
-Whale 3: a5.
 In chorus, whales 2, 3: a4- r4.
 Whale 3: r5.
 Whale 2: a5 a4.
-Whale 3: r5 a5 a4.
 In chorus, whales 2, 3: a3- c4.
 Whale 3: c3.
 Whale 2: c3.
 Whale 1: c3.
-Whale 2: c3 c3 c3.
 In chorus, whales 1, 2: Q3 c3.
 Whale 1: c3.
 Whale 2: c3.
-Whale 1: c3 c3.
 In chorus, whales 1, 3: c3 c3-.
 Whale 2: c3.
-Whale 1: c3.
 In chorus, whales 1, 3: c3 c3-.
 In chorus, whales 1, 2, 3: c3- c4 c3-.
 In chorus, whales 1, 2, 3: c3- c3 c3-.
 Whale 4: e2.
-Whale 3: e2.
 In chorus, whales 1, 2, 3: c3- c4\ c3.
 Whale 4: e1.
 
-Long pause, 760.0 seconds.
+No vocalizations, 10 minutes.
+
 Whale 3: Q1 c1 c1.
 Whale 2: Q1 c1.
-Whale 3: e1 Q1 c1 c1 Q1 c1.
 In chorus, whales 2, 3: c1- e1.
 In chorus, whales 1, 3: c3 e1/.
 Whale 1: c3 c3.
@@ -901,7 +887,6 @@ In chorus, whales 1, 3: c3 c1/.
 In chorus, whales 1, 3: c3\ c1.
 In chorus, whales 1, 3: c3 e1/.
 Whale 3: e1 e1.
-Whale 2: e1 e1.
 In chorus, whales 2, 3: e1 e1-.
 In chorus, whales 2, 3: c1 c1.
 In chorus, whales 2, 3: K1 e1.
@@ -910,37 +895,49 @@ Whale 2: e1 c1 c1.
 Whale 3: e1.
 Whale 2: c1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 4: q1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 10.0 seconds.
+Whale 5: e1.
 
-Long pause, 10.0 seconds.
-Whale 5: e1 r1 r1 o1 l1.
+No vocalizations, 10 seconds.
 
-Long pause, 20.0 seconds.
+Whale 5: r1 r1 o1.
 
-Long pause, 2500.0 seconds.
-Whale 2: e1 q5 j5.
+No vocalizations, 10 seconds.
 
-Long pause, 635.0 seconds.
+Whale 5: l1.
 
-Long pause, 10.0 seconds.
-Whale 1: Q1 c1 c1 c1 c1 c1.
+No vocalizations, 20 seconds.
 
-Long pause, 15.0 seconds.
+Whale 2: e1.
+
+No vocalizations, 40 minutes.
+
+Whale 2: q5 j5.
+
+No vocalizations, 10 minutes.
+
+Whale 1: Q1 c1 c1.
+
+No vocalizations, 10 seconds.
+
+Whale 1: c1 c1 c1.
+
+No vocalizations, 15 seconds.
+
 Whale 2: f1.
-Whale 1: c1 e1 c1 c1 e1 c1 q1 e1 r1 r1 o1 l1 e1 q5 j5 Q1 c1 c1 c1 c1 c1 f1.
 In chorus, whales 1, 2: c1 f1.
 Whale 2: f1.
-Whale 1: f1.
 In chorus, whales 1, 2: c1 E2.
 Whale 1: e1.
 Whale 2: f1 f1.
 
-Long pause, 2730.0 seconds.
+No vocalizations, 45 minutes.
+
 Whale 1: c5.
 Whale 3: a1.
 Whale 1: c5.
@@ -951,55 +948,60 @@ Whale 1: c3 e3.
 Whale 2: c3.
 Whale 1: k5\ k5.
 Whale 2: c3.
-Whale 1: e1 f1 f1 c5 a1 c5 a1 c5 a1/ c3 e3 c3 k5\ k5 c3.
 In chorus, whales 1, 2: c5 c3/.
 Whale 1: Q5.
 In chorus, whales 1, 2: c4 c3-.
 In chorus, whales 1, 2: c5 c3-.
+Whale 1: c5.
 
-Long pause, 15.0 seconds.
-Whale 1: c5 c5.
+No vocalizations, 15 seconds.
+
+Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5 c5- c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
+Whale 2: c5.
 
-Long pause, 15.0 seconds.
-Whale 2: c5 c5.
+No vocalizations, 15 seconds.
+
+Whale 2: c5.
 Whale 1: c5-.
-Whale 2: c5 c5 c5- c5.
+Whale 2: c5.
 In chorus, whales 1, 2: Q5 c5.
 Whale 2: c5.
 Whale 1: c5-.
 Whale 2: c5 c5 c5.
 Whale 1: j5.
 Whale 2: c5-.
-In chorus, whales : .
 Whale 1: g5 g5.
 
-File: sw078a
 
-Long pause, nan seconds.
+File: sw078a
 Whale 2: h5 J5.
 Whale 3: g5.
+Whale 2: h5.
 
-Long pause, 270.0 seconds.
-Whale 2: h5 J5 g5 h5 e1 e2 e2.
+No vocalizations, 4 minutes.
+
+Whale 2: e1 e2 e2.
 In chorus, whales 2, 3: e2 e2-.
 In chorus, whales 2, 3: e2 e1-.
 Whale 3: c3.
 Whale 2: e2.
 Whale 3: c3.
+Whale 2: c3.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
 
-Long pause, 105.0 seconds.
-Whale 2: c3 e2 c3 c3 c5 c5 c5 e2.
+Whale 2: c5 c5 c5.
+
+No vocalizations, 1 minute.
+
+Whale 2: e2.
 In chorus, whales 1, 2: c4- c3.
 In chorus, whales 1, 2: c3- c3.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 1, 2: c3 c4\.
 Whale 1: c3.
@@ -1013,13 +1015,14 @@ Whale 2: c5.
 Whale 1: c5.
 Whale 2: c5.
 Whale 1: c5.
+Whale 2: c5-.
 
-Long pause, 10.0 seconds.
-Whale 2: c5- c5.
+No vocalizations, 10 seconds.
+
+Whale 2: c5.
 Whale 1: c5.
 Whale 2: c5.
 Whale 1: c5\.
-Whale 2: c3 c4 c3 c3 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5- c5 c5 c5 c5\.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
 Whale 1: q5.
@@ -1030,18 +1033,19 @@ Whale 1: g5.
 Whale 2: j5/.
 Whale 1: c5.
 
-Long pause, 2205.0 seconds.
+No vocalizations, 35 minutes.
+
 Whale 2: c5 e2 e2 p2 I2 c3 c3 c3.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 1: l3 O3 l3 l3 n2 l3 c3.
 Whale 2: e2/.
-Whale 1: c5 q5 c5 q5 c5 g5 j5/ c5 c5 e2 e2 p2 I2 c3 c3 c3 l3 O3 l3 l3 n2 l3 c3 e2/ c3 c3 c3.
+Whale 1: c3 c3 c3.
 In chorus, whales 1, 2: c3 r5\.
 Whale 2: r4.
 Whale 1: c3.
 Whale 2: r3.
-Whale 1: r4 c3 r3.
 In chorus, whales 1, 3: c3 e2/.
 In chorus, whales 1, 2, 3: K4 c3 e2.
 In chorus, whales 1, 2: c3\ a1.
@@ -1049,7 +1053,6 @@ In chorus, whales 1, 2, 3, 4: c3- c3 e2/ e2-.
 In chorus, whales 1, 2, 3, 4: c3 e2/ c3\ h5\.
 In chorus, whales 1, 2: c3\ e2.
 Whale 4: h5\.
-Whale 2: h5\.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 3, 4: c4- h5\.
 In chorus, whales 1, 2: c3- a4.
@@ -1059,7 +1062,6 @@ Whale 4: h5.
 Whale 3: c4- c5.
 Whale 4: h5.
 Whale 1: c5.
-Whale 3: c4 h5 c4- c5 h5 c5.
 In chorus, whales 1, 3: c5- c5.
 Whale 4: c5.
 Whale 3: c5.
@@ -1070,131 +1072,142 @@ Whale 1: c5-.
 Whale 6: c5.
 Whale 7: r5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 1: j5.
 Whale 8: c5/.
-Whale 1: c5 c5 c3/ c5 c5- c5 c5- c5 r5 j5 c5/.
 In chorus, whales 1, 8: g5 c5/.
 In chorus, whales 1, 9: R5 c5.
 Whale 10: c5.
 
-Long pause, 5290.0 seconds.
-Whale 1: c5.
-In chorus, whales 1, 2: c5 c5-.
-In chorus, whales 1, 2: c5 c5-.
-Whale 1: c5.
+No vocalizations, 1 hour.
 
-Long pause, 10.0 seconds.
-Whale 2: c5- c5.
+In chorus, whales 1, 2: c5 c5-.
+In chorus, whales 1, 2: c5 c5-.
+Whale 1: c5.
+Whale 2: c5-.
+
+No vocalizations, 10 seconds.
+
+Whale 2: c5.
 Whale 1: c5- c5 c5.
 Whale 3: c5 c5 c5 c5 c5 c5 c5.
 Whale 1: c5 c5 c5.
-Whale 4: c5 c5- c5 c5- c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
 In chorus, whales 1, 4: c5- c5.
 In chorus, whales 1, 4: c5- c5.
 In chorus, whales 1, 4: c5- c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 1: c5.
 Whale 4: c5 c5.
 Whale 3: c5 c5.
 Whale 4: c5 c5 c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 1: c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 4: C5 a5.
 Whale 1: c5-.
 Whale 4: c5 c5.
 Whale 1: c5.
 Whale 4: c5-.
-Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 C5 a5 c5- c5 c5 c5 c5-.
 In chorus, whales 1, 4: c5 c5-.
 In chorus, whales 1, 4: c5- c5.
 In chorus, whales 1, 4: q5 c5-.
 In chorus, whales 1, 4: q5 c5-.
+Whale 1: c5.
 
-Long pause, 610.0 seconds.
-In chorus, whales : .
-Whale 1: c5 n1 L2 n1 L2.
+No vocalizations, 10 minutes.
+
+Whale 1: n1 L2 n1 L2.
+
 
 File: sw078b
-
-Long pause, nan seconds.
 Whale 2: e2 c5 e2 e2 k3 I2.
 
-Long pause, 10510.0 seconds.
+No vocalizations, 2 hours.
 
-Long pause, 720.0 seconds.
-In chorus, whales : .
-Whale 1: C3 a4 e5 r1 r1 M1 r1 m1 m1 m1 r1 l3 r1 r3.
+Whale 1: C3 a4 e5 r1 r1 M1 r1 m1 m1 m1.
+
+No vocalizations, 10 minutes.
+
+Whale 1: r1 l3 r1 r3.
+
 
 File: sw078c
-
-Long pause, nan seconds.
 Whale 2: e2 c5 c4 e2 e2 k3 I2.
 Whale 1: c3 c3 c3.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 45.0 seconds.
-Whale 2: e2 c5 c4 e2 e2 k3 I2 c3 c3 c3 o3 c3.
+Whale 2: o3.
+
+No vocalizations, 45 seconds.
+
+Whale 2: c3.
 In chorus, whales 2, 3, 4: c3 k4\ e2/.
 Whale 2: c3.
 
-Long pause, 10.0 seconds.
-Whale 3: c3.
+No vocalizations, 10 seconds.
+
 In chorus, whales 2, 3: c3- c3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 30.0 seconds.
+Whale 2: h5.
 
-Long pause, 10.0 seconds.
-Whale 2: h5 r5 c5.
+No vocalizations, 30 seconds.
+
+Whale 2: r5.
+
+No vocalizations, 10 seconds.
+
+Whale 2: c5.
 Whale 3: i3/.
-Whale 2: h5 r5 c5 i3/.
 In chorus, whales 2, 3: c5 r5\.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: Q5 c4 c3 c3.
 
-Long pause, 15.0 seconds.
-Whale 1: Q5 c4 c3 c3.
+No vocalizations, 15 seconds.
+
 In chorus, whales 1, 2: c3 c3-.
 Whale 1: c3.
-Whale 2: c3 c3\.
+Whale 2: c3\.
 In chorus, whales 2, 3: r2 c3\.
 Whale 1: c3 e3.
 Whale 2: c3.
-Whale 3: c3 e3 c3.
 In chorus, whales 2, 3: r2- c3.
 Whale 1: c3.
 Whale 3: c3.
 
-Long pause, 20265.0 seconds.
+No vocalizations, 5 hours.
+
 Whale 1: Q1 c1 e1 e1 c3 K3 c3.
-Whale 2: c3 c3 Q1 c1 e1 e1 c3 K3 c3.
 In chorus, whales 1, 2: c3\ e1.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
+
 Whale 1: c1.
-Whale 2: c1.
 In chorus, whales 1, 2: c1- e1.
 In chorus, whales 1, 2: e1 e1-.
 Whale 1: e1.
 
-Long pause, 30.0 seconds.
+No vocalizations, 30 seconds.
+
 Whale 2: c1.
 
-Long pause, 20.0 seconds.
-In chorus, whales : .
+No vocalizations, 20 seconds.
+
 Whale 1: k1 l1.
 
-File: sw085a
 
-Long pause, nan seconds.
+File: sw085a
 Whale 1: c5 c5.
 Whale 2: c5.
 Whale 1: c5.
@@ -1205,61 +1218,72 @@ Whale 1: c5- c5.
 Whale 2: c5- c5 c5.
 Whale 1: c5.
 
-Long pause, 15.0 seconds.
-Whale 2: c5 c5 c5 c5 c5- c5 c5 c5- c5 c5- c5 c5 c5 c5.
+No vocalizations, 15 seconds.
+
+Whale 2: c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
 Whale 1: c5-.
-Whale 2: c5 c5- c5.
+Whale 2: c5.
 In chorus, whales 1, 2: c5- c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 625.0 seconds.
-Whale 1: c5 c5 c5.
+Whale 1: c5 c5.
+
+No vocalizations, 10 minutes.
+
+Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5 c5.
 Whale 2: c5.
 Whale 1: c5.
 Whale 2: c5-.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 1: c5 c5.
 Whale 2: c5-.
 Whale 1: c5.
+Whale 2: c5-.
 
-Long pause, 10.0 seconds.
-Whale 2: c5- c5 c5 c5.
+No vocalizations, 10 seconds.
+
+Whale 2: c5 c5 c5.
 Whale 1: c5.
 Whale 2: c5 c5.
 Whale 1: c5-.
 Whale 2: c5.
 Whale 1: c5-.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: c5 c5.
 Whale 1: c5-.
-Whale 2: c5 c5 c5 c5- c5 c5 c5 c5 c5- c5 c5 c5- c5 c5- c5 c5 c5 c5 c5 c5 c5- c5 c5- c5 c5 c5-.
 In chorus, whales 1, 2: c5- c5.
 Whale 1: c5 c5 c5 c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 120.0 seconds.
-Whale 2: c5 c5 c5 c5 c5.
+Whale 2: c5 c5 c5 c5.
 
-Long pause, 20.0 seconds.
+No vocalizations, 2 minutes.
+
+Whale 2: c5.
+
+No vocalizations, 20 seconds.
+
 Whale 4: c5 c5 c5 c5 c5 c4 c3.
 Whale 3: c5.
-Whale 4: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c4 c3 c5 c3/.
+Whale 4: c3/.
 In chorus, whales 3, 4: c4\ c3.
 Whale 4: Q3.
 In chorus, whales 3, 4: c4\ c3.
 Whale 4: c3.
 Whale 3: c5.
-Whale 4: c3 c5 c3/.
+Whale 4: c3/.
 In chorus, whales 3, 4: c5\ c3.
 In chorus, whales 3, 4: c5 c3/.
 In chorus, whales 3, 4: c5 c3/.
@@ -1268,7 +1292,6 @@ In chorus, whales 3, 4: c5 c3/.
 In chorus, whales 3, 4: c5\ c3.
 Whale 3: c5.
 Whale 4: c3/.
-Whale 3: c5 c3/.
 In chorus, whales 3, 4: c5 c3/.
 In chorus, whales 3, 4: c5 c3/.
 In chorus, whales 3, 4: c5 c3-.
@@ -1285,18 +1308,24 @@ Whale 3: c5.
 Whale 4: Q5.
 Whale 3: c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 610.0 seconds.
+Whale 2: c5 c4 c4.
 
-Long pause, 15.0 seconds.
+No vocalizations, 10 minutes.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c4 c4 R3 r1 r3 q5 H5 r5 r5.
-Whale 1: c5 c4- c5 c5 c5 c5 c5 c5\ c5 c4- c5 Q5 c5 c5 c4 c4 R3 r1 r3 q5 H5 r5 r5 q2 n3.
+Whale 2: R3 r1 r3 q5 H5.
+
+No vocalizations, 15 seconds.
+
+Whale 2: r5.
+
+No vocalizations, 10 seconds.
+
+Whale 2: r5.
+Whale 1: q2 n3.
 In chorus, whales 1, 2: l3 r5\.
 Whale 1: l3 r3.
-Whale 2: l3 r3.
 In chorus, whales 1, 2: c3- c4.
 In chorus, whales 1, 2: c3- c4.
 Whale 1: c3.
@@ -1316,7 +1345,8 @@ Whale 1: c4.
 In chorus, whales 1, 2: c4 r5\.
 Whale 1: c4 c5 c5.
 
-Long pause, 115.0 seconds.
+No vocalizations, 1 minute.
+
 Whale 2: p3.
 Whale 1: c5.
 Whale 2: p3.
@@ -1328,15 +1358,13 @@ Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c4 c5 c5 p3 c5 p3 c5 p3 c5 p3/ c5 c5- c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
-Whale 2: c5 c5-.
+Whale 2: c5-.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
@@ -1344,7 +1372,7 @@ Whale 1: c5 c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5 c5- c5 c5- c5.
+Whale 1: c5.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
@@ -1354,24 +1382,25 @@ Whale 1: c5.
 Whale 2: r5.
 Whale 1: c5-.
 
-Long pause, 430.0 seconds.
+No vocalizations, 5 minutes.
+
 Whale 2: N1 i1.
+Whale 1: l1 g1 l1 g1.
 
-Long pause, 65.0 seconds.
-Whale 1: l1 g1 l1 g1 e2 e2 e2.
+No vocalizations, 1 minute.
 
-Long pause, 6560.0 seconds.
+Whale 1: e2 e2 e2.
+
+No vocalizations, 1 hour.
+
 Whale 2: r5 a1 a1.
 Whale 1: e2.
 Whale 2: e2.
 Whale 1: e2.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 H5 c5 r5 c5 r5 c5- N1 i1 l1 g1 l1 g1 e2 e2 e2 r5 a1 a1 e2 e2 e2.
 In chorus, whales 1, 2: e2- e2.
 Whale 1: e2 e2 e2.
-Whale 2: e2 e2 e2.
 In chorus, whales 1, 2: c3- c3.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c3- c3.
 Whale 1: c3 c3 c3.
 In chorus, whales 1, 2: e2 c3\.
@@ -1387,12 +1416,11 @@ Whale 1: c5- c5.
 Whale 3: e2/ e2 e2.
 Whale 1: c5.
 Whale 3: c4.
-Whale 2: c3 c5 c5 c5/ c5 c5- c5 c5- c5 e2/ e2 e2 c5 c4 c5\.
+Whale 2: c5\.
 In chorus, whales 2, 3: c5 c4-.
 In chorus, whales 2, 3: c4- c4.
 In chorus, whales 2, 3: c5 c4-.
 Whale 1: c5.
-Whale 3: c5.
 In chorus, whales 1, 3: c5- c5.
 Whale 1: c5.
 Whale 3: c5-.
@@ -1401,16 +1429,14 @@ Whale 3: c5-.
 Whale 1: c5.
 Whale 3: c5-.
 Whale 1: c5.
-Whale 3: c5 c5- c5 c5- c5 c5- c5 c5 c5.
+Whale 3: c5 c5.
 In chorus, whales 1, 3: q5\ c5.
 In chorus, whales 1, 3: q5 c5/.
 Whale 1: h5 h5.
 Whale 3: Q5.
 Whale 1: g5.
-Whale 3: h5 h5 Q5 g5.
 In chorus, whales 1, 3: c5- c5.
 Whale 1: c5.
-Whale 3: c5.
 In chorus, whales 1, 3: c4- r5.
 Whale 1: c4.
 Whale 3: r5.
@@ -1418,54 +1444,59 @@ Whale 1: c4- c4.
 Whale 3: c5.
 Whale 1: c4-.
 Whale 3: c5.
+Whale 1: c4.
 
-Long pause, 425.0 seconds.
-Whale 1: c4 c5.
-Whale 2: c4 r5 c4- c4 c5 c4- c5 c4 c5.
+No vocalizations, 5 minutes.
+
+Whale 1: c5.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5 c5.
 
-Long pause, 10.0 seconds.
-Whale 1: c5 c5 c5.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 In chorus, whales 1, 2: c5 p3/.
 Whale 2: p3 p3.
 Whale 1: c5\ c5 c5 c5.
 
-Long pause, 25.0 seconds.
+No vocalizations, 25 seconds.
+
 Whale 2: c5 c5.
 Whale 1: c5-.
 Whale 2: c5 c5.
-Whale 1: p3 p3 c5\ c5 c5 c5 c5 c5 c5- c5 c5.
 In chorus, whales 1, 2: h5 c5/.
 In chorus, whales 1, 2: J5 c5.
 Whale 2: c5.
 Whale 1: h5\.
 Whale 2: c5.
 
-Long pause, 370.0 seconds.
-Whale 1: c5 h5\ c5.
+No vocalizations, 5 minutes.
+
 In chorus, whales 1, 2: e2 e1-.
 Whale 1: e2.
 Whale 2: e1.
-Whale 1: e2 e1 e2.
+Whale 1: e2.
 In chorus, whales 1, 2: e2 e1-.
 Whale 1: e2.
 Whale 2: e1.
-Whale 1: e2 e1.
 In chorus, whales 1, 2: e2 e1-.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 20.0 seconds.
+Whale 1: e2 e2 e2.
 
-Long pause, 10000.0 seconds.
-Whale 1: e2 e2 e2 e2 e2 e2.
+No vocalizations, 20 seconds.
+
+Whale 1: e2 e2.
+
+No vocalizations, 2 hours.
+
+Whale 1: e2.
 Whale 2: e2.
-Whale 1: e2 e2 e2 e2 e2 e2 e2 e2.
+Whale 1: e2.
 In chorus, whales 1, 2: K3 e2.
 In chorus, whales 1, 2: e2 e2.
 Whale 2: r1.
@@ -1474,18 +1505,16 @@ Whale 2: e2.
 Whale 1: e2.
 Whale 2: e2.
 Whale 1: e1.
-Whale 2: r1 e2 e2 e2 e2 e1.
 In chorus, whales 1, 2: K3 e2.
 Whale 2: e1.
-Whale 1: e1.
 In chorus, whales 1, 2: c3 c3-.
 In chorus, whales 1, 2: c3 c3-.
 In chorus, whales 1, 2: c3 c3-.
 In chorus, whales 1, 2: c3- c3.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 1: c5.
-Whale 2: c5.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
@@ -1494,18 +1523,18 @@ Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5.
-Whale 1: c5 c5- c5 c5- c5 c5 c5-.
+Whale 1: c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 3: C5 b3 c5 c5.
 
-Long pause, 30.0 seconds.
+No vocalizations, 30 seconds.
+
 Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
@@ -1513,9 +1542,9 @@ Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5- c5.
 
-Long pause, 1055.0 seconds.
+No vocalizations, 15 minutes.
+
 Whale 1: c5.
-Whale 2: c5 C5 b3 c5 c5 c5 c5- c5 c5- c5 c5- c5 c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 1: c5.
 In chorus, whales 1, 2: c5 c5-.
@@ -1523,32 +1552,34 @@ In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5- c5 c5.
 Whale 1: c5.
-Whale 2: c5 c5- c5 c5 c5 c5 c5.
+Whale 2: c5 c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
 Whale 1: c5-.
 Whale 2: c5 c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 615.0 seconds.
-In chorus, whales : .
-Whale 1: c5 c5 n1 n1 L1 n1.
+Whale 1: c5 c5.
+
+No vocalizations, 10 minutes.
+
+Whale 1: n1 n1 L1 n1.
+
 
 File: sw090a
-
-Long pause, nan seconds.
 Whale 1: l2 l3.
 Whale 2: e2.
-Whale 1: l2 l3 e2 e2.
+Whale 1: e2.
 In chorus, whales 1, 2: e2 e2-.
 Whale 1: e2 c4.
+Whale 2: c5 c5.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c5 c5.
+No vocalizations, 10 seconds.
+
+Whale 2: c5.
 Whale 1: c5-.
 Whale 2: c5.
-Whale 1: e2 c4 c5 c5 c5 c5- c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5.
@@ -1558,21 +1589,24 @@ Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5 c5.
-Whale 1: c5 c5 c5 c5 c5 c5- c5 c5 c5 c4 c4 c5 c5 c5.
+Whale 1: c4 c4 c5 c5 c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5 c5.
 Whale 2: c5-.
+Whale 1: c5.
 
-Long pause, 310.0 seconds.
-Whale 1: c5 c5.
+No vocalizations, 5 minutes.
+
+Whale 1: c5.
 Whale 2: c5.
-Whale 1: c5 c5- c5 c5 c5- c5 c5 c5 c5 c5 c5 c5 c5.
+Whale 1: c5 c5 c5 c5 c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: c5.
 Whale 1: c5-.
 Whale 2: c5.
@@ -1581,17 +1615,19 @@ Whale 2: c5.
 Whale 1: c5-.
 Whale 2: c5.
 Whale 1: c5- c5.
-Whale 2: c5 c5 c5- c5 c5- c5 c5- c5 c5- c5 c5-.
+Whale 2: c5-.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5 c5 c5.
+Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 i2.
 
-Long pause, 1125.0 seconds.
-Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 i2 r3.
+No vocalizations, 20 minutes.
 
-Long pause, 2775.0 seconds.
+Whale 1: r3.
+
+No vocalizations, 45 minutes.
+
 Whale 2: c5.
 Whale 1: c5-.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 i2 r3 c5 c5-.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5- c5.
@@ -1604,39 +1640,41 @@ Whale 3: c5 c5 c5.
 In chorus, whales 3, 4: c5 c5-.
 Whale 3: c5 c5.
 Whale 4: c5-.
-Whale 3: c5 c5 c5-.
 In chorus, whales 3, 4: c5 c5-.
 Whale 4: c5.
 
-Long pause, 95.0 seconds.
+No vocalizations, 1 minute.
+
 Whale 2: c5.
-Whale 1: c5 c5 c5.
+Whale 1: c5.
 In chorus, whales 1, 2: c5 c5\.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
+Whale 1: c5- c5.
 
-Long pause, 515.0 seconds.
-Whale 1: c5- c5 L1 n1 n1 n1.
+No vocalizations, 10 minutes.
 
-Long pause, 10.0 seconds.
+Whale 1: L1 n1 n1 n1.
+
+No vocalizations, 10 seconds.
+
 Whale 4: e2.
-Whale 1: c5 c5- c5 L1 n1 n1 n1 e2.
 In chorus, whales 1, 2: c1 e2\.
 In chorus, whales 1, 2: c1 e2\.
 In chorus, whales 1, 2: c1 e2\.
 Whale 1: c1.
 Whale 2: e2.
-Whale 1: c1 e2.
 In chorus, whales 1, 4: c1 r1.
 Whale 1: e1 c1 e1.
 
-Long pause, 6475.0 seconds.
-Whale 4: e1 c1 e1 Q5 c5.
+No vocalizations, 1 hour.
+
+Whale 4: Q5 c5.
 In chorus, whales 4, 5: c5 c5-.
 Whale 4: c5.
 Whale 5: c5.
 Whale 4: c5-.
-Whale 5: c5 c5 c5- c5.
+Whale 5: c5.
 In chorus, whales 4, 5: c5- c5.
 In chorus, whales 3, 5: c5- c5.
 In chorus, whales 3, 5: c5- c5.
@@ -1644,54 +1682,61 @@ In chorus, whales 3, 5: c5- c5.
 In chorus, whales 3, 5: c5- c5.
 Whale 3: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 5: q5 q5.
 
-Long pause, 505.0 seconds.
+No vocalizations, 10 minutes.
+
 Whale 1: c5 c5 c5 c5 c5 c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: c5 c5 c5.
 Whale 1: c5- c5 c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 40.0 seconds.
+No vocalizations, 40 seconds.
+
 Whale 2: h5.
-Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 q5 q5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5- c5 c5 c5 c5 c5 c5 c5 c5 h5.
 In chorus, whales 1, 2: c5 h5\.
 In chorus, whales 1, 2: c5 J5.
 Whale 1: c5.
 
-Long pause, 1460.0 seconds.
+No vocalizations, 25 minutes.
+
 Whale 2: c4 c5 c5.
 Whale 1: c5 c5.
 Whale 2: h5\.
 Whale 1: c5.
+Whale 2: h5.
 
-Long pause, 6670.0 seconds.
+No vocalizations, 1 hour.
 
-Long pause, 10.0 seconds.
+Whale 2: l1 l1 l1 n1 n1 n1.
 
-Long pause, 7660.0 seconds.
-Whale 2: h5 l1 l1 l1 n1 n1 n1 e2 e2 e2 e2 e2 e2 e2 r5 R5.
+No vocalizations, 10 seconds.
+
+Whale 2: e2 e2 e2 e2 e2 e2 e2.
+
+No vocalizations, 2 hours.
+
+Whale 2: r5 R5.
 Whale 3: n3.
 Whale 2: r5.
 Whale 3: n2/.
 Whale 2: r5.
 Whale 3: l3/.
 Whale 2: r3.
-Whale 3: c5 c4 c5 c5 c5 c5 h5\ c5 h5 l1 l1 l1 n1 n1 n1 e2 e2 e2 e2 e2 e2 e2 r5 R5 n3 r5 n2/ r5 l3/ r3.
 In chorus, whales 2, 3: r5- c4.
 In chorus, whales 2, 3: r5\ c4.
 Whale 2: c4.
-Whale 1: c4 c4 c4.
+Whale 1: c4 c4.
 In chorus, whales 1, 2: c4 e2/.
 Whale 1: c3.
 Whale 2: e2/.
-Whale 3: c3 e2/.
 In chorus, whales 2, 3: e2- e2.
 Whale 2: e2.
 Whale 1: c5.
-Whale 2: e2 c5.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
@@ -1710,56 +1755,62 @@ Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5- c5.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
+
 Whale 3: c5 c5.
 Whale 4: c5.
+Whale 3: c5-.
 
-Long pause, 10.0 seconds.
-Whale 3: c5- c5 c5.
-Whale 4: c5 c5- c5 c5- b4 c5 c5 c5 c5- c5 c5- c5 c5- c5 c5- c5 c5- c5 c5 c5 c5 c5- c5 c5 c5-.
+No vocalizations, 10 seconds.
+
+Whale 3: c5 c5.
+Whale 4: c5-.
 In chorus, whales 3, 4: c5- c5.
 
-Long pause, 95.0 seconds.
+No vocalizations, 1 minute.
+
 Whale 2: c5 c5.
 Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5 c5 c5.
 
-Long pause, 515.0 seconds.
+No vocalizations, 10 minutes.
+
 Whale 2: e2.
-Whale 1: c5 c5 c5 c5- c5 c5 c5 e2.
 In chorus, whales 1, 2: c1 e2\.
 Whale 1: c1.
 Whale 2: e2.
 Whale 1: e1.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: e2 e2.
 Whale 1: c1 e1 e1 e1 e1.
 
-Long pause, 3040.0 seconds.
+No vocalizations, 50 minutes.
+
 Whale 2: c5 c5.
-Whale 1: c1 e2 e1 e2 e2 c1 e1 e1 e1 e1 c5 c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5 c5.
 Whale 2: c5 c5.
-Whale 1: c5 c5 c5 c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 2: c5.
-Whale 1: c5.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 2: c5 c5.
 Whale 1: c5 c5 c5 c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 3: h5 J5.
 
-Long pause, 535.0 seconds.
+No vocalizations, 10 minutes.
 
-Long pause, 40.0 seconds.
-Whale 2: g1 o2 o2 l1 e2 e2.
-Whale 1: c5 c5 c5 c5 c5 c5 h5 J5 g1 o2 o2 l1 e2 e2.
+Whale 2: g1 o2 o2 l1.
+
+No vocalizations, 40 seconds.
+
+Whale 2: e2 e2.
 In chorus, whales 1, 2: e1 e2\.
 In chorus, whales 1, 2: e1- e2.
 In chorus, whales 1, 2: c1 e2\.
@@ -1767,38 +1818,33 @@ In chorus, whales 1, 2: e1- e2.
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: e1 e2\.
 In chorus, whales 1, 2: c1 e2\.
-In chorus, whales : .
 Whale 2: e2 e2 e2 e2 e2 e2.
 
-File: sw090b
 
-Long pause, nan seconds.
+File: sw090b
 Whale 2: r5 r5.
-Whale 3: r5 r5.
 In chorus, whales 2, 3: l3/ r5.
 In chorus, whales 1, 2: c4- c5.
 Whale 1: c4.
-Whale 2: c4.
 In chorus, whales 1, 2: c4- c5.
 In chorus, whales 1, 2: c4 c4-.
 Whale 1: c4.
-Whale 2: c4.
 In chorus, whales 1, 2: c4/ r5.
 Whale 1: c4 c4.
 Whale 2: r5.
-Whale 1: c4 c4 r5 c4.
+Whale 1: c4.
 In chorus, whales 1, 2: c4 r5\.
 Whale 2: c4.
 Whale 1: c5.
 Whale 2: c4.
-Whale 1: c4 c5 c4.
 In chorus, whales 1, 2: c5 c4-.
 Whale 1: c5.
 Whale 2: c4 i5.
 
-Long pause, 310.0 seconds.
+No vocalizations, 5 minutes.
+
 Whale 3: c5.
-Whale 4: c5 c4 i5 c5 c5-.
+Whale 4: c5-.
 In chorus, whales 3, 4: c5- c5.
 In chorus, whales 3, 4: c5 I5.
 In chorus, whales 3, 4: c5 c5-.
@@ -1811,62 +1857,72 @@ Whale 4: c5 c5 c5.
 In chorus, whales 3, 4: c5- c5.
 Whale 4: c5 c5.
 Whale 3: c5-.
-Whale 4: c5 c5 c5-.
 In chorus, whales 3, 4: c5- c5.
 Whale 3: c5.
 
-Long pause, 95.0 seconds.
+No vocalizations, 1 minute.
+
 Whale 2: c5.
-Whale 1: c5 c5 c5.
+Whale 1: c5.
 In chorus, whales 1, 2: c5 c5\.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
 Whale 1: c5- c5.
 
-Long pause, 515.0 seconds.
+No vocalizations, 10 minutes.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c5- c5 L1 n1 n1 n1 e2.
+Whale 2: L1 n1 n1 n1.
+
+No vocalizations, 10 seconds.
+
+Whale 2: e2.
 In chorus, whales 1, 2: e2\ c1.
 In chorus, whales 1, 2: e2\ c1.
 In chorus, whales 1, 2: e2\ c1.
 Whale 2: c1.
 Whale 1: e2.
+Whale 2: c1 e1 c1 e1.
 
-Long pause, 6475.0 seconds.
-Whale 2: c1 e1 c1 e1 c5 c5.
-Whale 3: c1 e2 c1 e1 c1 e1 c5 c5.
+No vocalizations, 1 hour.
+
+Whale 2: c5 c5.
 In chorus, whales 3, 4: c5 Q5.
 Whale 4: c5 c5.
 Whale 3: c5-.
 Whale 4: c5.
-Whale 3: c5 c5 c5- c5.
 In chorus, whales 3, 4: c5 Q5.
 In chorus, whales 3, 4: c5 c5-.
 In chorus, whales 3, 4: c5 c5-.
 In chorus, whales 3, 4: c5 c5-.
 In chorus, whales 3, 4: c5 c5-.
 Whale 4: c5 c5 c5 c5 c5 c5 c5 c5 c5.
+Whale 3: c5 c5 c5 c5 c5.
 
-Long pause, 10.0 seconds.
-Whale 3: c5 c5 c5 c5 c5 q5 q5.
+No vocalizations, 10 seconds.
 
-Long pause, 505.0 seconds.
+Whale 3: q5 q5.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 a5.
+No vocalizations, 10 minutes.
+
+Whale 2: c5 c5 c5 c5 c5 c5.
+
+No vocalizations, 10 seconds.
+
+Whale 2: c5 c5 a5.
 Whale 3: c5-.
 Whale 2: C5.
 Whale 3: c5 c5.
+Whale 2: c5 c5 c5 c5 c5.
 
-Long pause, 40.0 seconds.
-Whale 2: c5 c5 c5 c5 c5 h5.
-Whale 3: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 q5 q5 c5 c5 c5 c5 c5 c5 c5 c5 a5 c5- C5 c5 c5 c5 c5 c5 c5 c5 h5.
+No vocalizations, 40 seconds.
+
+Whale 2: h5.
 In chorus, whales 2, 3: h5\ c5.
 In chorus, whales 2, 3: J5 c5.
 Whale 3: c5.
 
-Long pause, 1450.0 seconds.
+No vocalizations, 25 minutes.
+
 Whale 2: r4.
 Whale 3: c4- c4 c4.
 Whale 2: c5 c5.
@@ -1875,24 +1931,27 @@ Whale 2: h5\.
 Whale 3: c5.
 Whale 2: h5.
 
-Long pause, 6670.0 seconds.
+No vocalizations, 1 hour.
 
-Long pause, 10.0 seconds.
-Whale 1: l1 l1 l1 n1 n1 n1 e2 e2 e2 e2 e2 e2 e2.
+Whale 1: l1 l1 l1 n1 n1 n1.
 
-Long pause, 7660.0 seconds.
+No vocalizations, 10 seconds.
+
+Whale 1: e2 e2 e2 e2 e2 e2 e2.
+
+No vocalizations, 2 hours.
+
 Whale 2: r5 r5 n3 r5.
 Whale 3: n2/.
 Whale 2: r5.
-Whale 3: c5 r4 c4- c4 c4 c5 c5 c5 c5 h5\ c5 h5 l1 l1 l1 n1 n1 n1 e2 e2 e2 e2 e2 e2 e2 r5 r5 n3 r5 n2/ r5 l3/ r3.
+Whale 3: l3/ r3.
 In chorus, whales 2, 3: r5- c4.
 In chorus, whales 2, 3: r5\ c4.
 Whale 3: c4.
-Whale 2: c4 c4 c4.
+Whale 2: c4 c4.
 In chorus, whales 2, 3: c4 e2/.
 Whale 2: c3.
 Whale 3: e2/.
-Whale 2: c3 e2/.
 In chorus, whales 2, 3: e2 e2-.
 Whale 2: e2 c5.
 In chorus, whales 2, 3: c5 c5-.
@@ -1913,62 +1972,75 @@ Whale 2: c5-.
 Whale 3: c5.
 Whale 2: c5-.
 Whale 3: c5.
+Whale 2: c5- c5.
 
-Long pause, 20.0 seconds.
-Whale 2: c5- c5 c5 c5.
+No vocalizations, 20 seconds.
+
+Whale 2: c5 c5.
 Whale 3: c5.
+Whale 2: c5-.
 
-Long pause, 10.0 seconds.
-Whale 2: c5- c5 c5.
-Whale 3: c5 c5- c5 c5- c5 c5 c5 c5 c5- c5 c5- c5 c5- c5 c5- c5 c5- c5 c5 c5 c5 c5- c5 c5 c5.
+No vocalizations, 10 seconds.
+
+Whale 2: c5 c5.
+Whale 3: c5.
 In chorus, whales 2, 3: c5- c5.
 
-Long pause, 95.0 seconds.
+No vocalizations, 1 minute.
+
 Whale 2: c5 c5.
 Whale 3: c5.
 Whale 2: c5-.
 Whale 3: c5 c5 c5.
 
-Long pause, 515.0 seconds.
+No vocalizations, 10 minutes.
+
 Whale 2: e2.
-Whale 1: c5 c5 c5 c5- c5 c5 c5 e2.
 In chorus, whales 1, 2: c1 e2\.
 Whale 1: c1.
 Whale 2: e2.
+Whale 1: e1.
 
-Long pause, 15.0 seconds.
-Whale 1: e1 e2 e2.
+No vocalizations, 15 seconds.
 
-Long pause, 3040.0 seconds.
-Whale 2: c1 e1 e1 e1 e1 c5 c5.
-Whale 3: c1 e2 e1 e2 e2 c1 e1 e1 e1 e1 c5 c5.
+Whale 1: e2 e2.
+Whale 2: c1 e1 e1 e1 e1.
+
+No vocalizations, 50 minutes.
+
+Whale 2: c5 c5.
 In chorus, whales 2, 3: c5- c5.
 Whale 3: c5 c5.
 Whale 2: c5 c5.
-Whale 3: c5 c5 c5 c5.
 In chorus, whales 2, 3: c5- c5.
 Whale 2: c5.
-Whale 3: c5.
 In chorus, whales 2, 3: c5- c5.
 In chorus, whales 2, 3: c5- c5.
+Whale 2: c5 c5 c5 c5 c5 c5.
 
-Long pause, 15.0 seconds.
-Whale 2: c5 c5 c5 c5 c5 c5 h5.
+No vocalizations, 15 seconds.
+
+Whale 2: h5.
 Whale 1: r1.
+Whale 2: j5.
 
-Long pause, 10.0 seconds.
-Whale 2: j5 r5.
+No vocalizations, 10 seconds.
+
+Whale 2: r5.
 Whale 3: Q5.
 Whale 2: j5.
 Whale 3: c5.
 Whale 2: c5.
 Whale 3: c5.
+Whale 2: c5 h5.
 
-Long pause, 490.0 seconds.
+No vocalizations, 10 minutes.
 
-Long pause, 40.0 seconds.
-Whale 2: c5 h5 g1 o2 o2 l1 e2 e2.
-Whale 3: c5 c5 c5 c5 c5 c5 h5 r1 j5 r5 Q5 j5 c5 c5 c5 c5 h5 g1 o2 o2 l1 e2 e2.
+Whale 2: g1 o2 o2 l1.
+
+No vocalizations, 40 seconds.
+
+Whale 2: e2 e2.
 In chorus, whales 2, 3: a1- e1.
 In chorus, whales 2, 3: e2 e1-.
 In chorus, whales 2, 3: e2\ c1.
@@ -1976,14 +2048,11 @@ In chorus, whales 2, 3: e2 e1-.
 In chorus, whales 2, 3: e1 e1-.
 In chorus, whales 2, 3: e2\ e1.
 In chorus, whales 2, 3: e2\ c1.
-In chorus, whales : .
 Whale 2: e2 e2 e2 e2 e2 e2.
 
-File: sw091a
 
-Long pause, nan seconds.
+File: sw091a
 Whale 3: c5 c5.
-Whale 2: c5 c5.
 In chorus, whales 1, 2: c5\ c5.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5.
@@ -1992,46 +2061,57 @@ Whale 2: c5.
 Whale 1: c5-.
 Whale 2: c5.
 Whale 1: c5.
+Whale 2: c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 85.0 seconds.
+Whale 2: p3 p3 p3 p3 p3 p3.
 
-Long pause, 55.0 seconds.
+No vocalizations, 1 minute.
 
-Long pause, 460.0 seconds.
-Whale 2: c5 p3 p3 p3 p3 p3 p3 p3 p3 h5 r5 r5.
+Whale 2: p3 p3.
+
+No vocalizations, 55 seconds.
+
+Whale 2: h5.
+
+No vocalizations, 5 minutes.
+
+Whale 2: r5 r5.
 Whale 1: r3/.
-Whale 2: c5 c5- c5 c5- c5 c5 c5 p3 p3 p3 p3 p3 p3 p3 p3 h5 r5 r5 r3/.
 In chorus, whales 1, 2: r3/ r4.
+Whale 1: R3.
 
-Long pause, 385.0 seconds.
-Whale 1: R3 h1 c1 e1 c1.
-Whale 2: R3 h1 c1 e1 c1 e1.
+No vocalizations, 5 minutes.
+
+Whale 1: h1 c1 e1 c1.
+Whale 2: e1.
 In chorus, whales 1, 2: c1- e1.
 Whale 1: c1.
-Whale 2: c1.
 In chorus, whales 1, 2: c1- e1.
 In chorus, whales 1, 2: c1- e1.
+Whale 1: c1.
 
-Long pause, 25.0 seconds.
-Whale 1: c1 e1 e1 e1 e1 e1 e1.
+No vocalizations, 25 seconds.
 
-Long pause, 25.0 seconds.
-Whale 2: c1 e1 e1 e1 e1 e1 e1 e1 e1.
+Whale 1: e1 e1 e1 e1 e1 e1.
+
+No vocalizations, 25 seconds.
+
+Whale 2: e1 e1.
 In chorus, whales 1, 2: e1- e1.
 Whale 1: c1.
-Whale 2: c1.
 In chorus, whales 1, 2: c1 e1.
 Whale 1: c1.
 
-Long pause, 40.0 seconds.
+No vocalizations, 40 seconds.
 
-Long pause, 6520.0 seconds.
-Whale 2: c1 e1 e1.
+Whale 2: e1 e1.
+
+No vocalizations, 1 hour.
+
 In chorus, whales 1, 2: r3/ c4.
 Whale 1: r2.
-Whale 2: r2.
 In chorus, whales 1, 2: r3- r3.
 In chorus, whales 1, 2: r3/ c4.
 In chorus, whales 1, 2: c4 r3/.
@@ -2039,7 +2119,6 @@ In chorus, whales 1, 2: c4 c4-.
 Whale 1: c4.
 Whale 2: r5.
 Whale 1: c4-.
-Whale 2: c4 r5 c4-.
 In chorus, whales 1, 2: c4- r4.
 Whale 1: c4.
 Whale 2: r5.
@@ -2047,10 +2126,13 @@ Whale 1: c4-.
 Whale 2: r5.
 Whale 1: c4/.
 
-Long pause, 445.0 seconds.
+No vocalizations, 5 minutes.
 
-Long pause, 20.0 seconds.
-Whale 2: i1 i1 e1 e1 e1 e1 e1.
+Whale 2: i1 i1 e1 e1 e1 e1.
+
+No vocalizations, 20 seconds.
+
+Whale 2: e1.
 Whale 1: e1 e1.
 Whale 2: e1.
 Whale 1: e1.
@@ -2059,15 +2141,14 @@ Whale 1: c1.
 Whale 2: e1.
 Whale 1: e1.
 Whale 2: e1.
-Whale 1: c4 r5 c4- r5 c4/ i1 i1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 c1 e1 e1 e1.
 In chorus, whales 1, 2: e1 e1-.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: e1 e1-.
 In chorus, whales 1, 2: c1 e1-.
 Whale 2: a1.
-Whale 1: a1.
 In chorus, whales 1, 2: e1 e1-.
 In chorus, whales 1, 2: e1 e1.
 Whale 2: e1.
@@ -2081,37 +2162,41 @@ Whale 1: e1.
 Whale 2: e1.
 Whale 1: e1.
 Whale 2: e1.
-In chorus, whales : .
 Whale 1: e1.
 
-File: sw091b
 
-Long pause, nan seconds.
+File: sw091b
 Whale 2: H1 c1 e1 c1.
-Whale 1: H1 c1 e1 c1 e1.
+Whale 1: e1.
 In chorus, whales 1, 2: e1 c1-.
 Whale 2: c1.
-Whale 1: c1.
 In chorus, whales 1, 2: K1 c1.
 In chorus, whales 1, 2: e1 c1-.
 Whale 2: c1.
 
-Long pause, 25.0 seconds.
+No vocalizations, 25 seconds.
 
-Long pause, 25.0 seconds.
-Whale 1: c1 e1 e1 e1 e1 e1 e1 e1 e1.
+Whale 1: e1 e1 e1 e1 e1 e1.
+
+No vocalizations, 25 seconds.
+
+Whale 1: e1 e1.
 In chorus, whales 1, 2: e1 e1-.
 Whale 2: c1.
-Whale 1: c1.
 In chorus, whales 1, 2: e1 c1.
+Whale 2: c1.
 
-Long pause, 40.0 seconds.
-Whale 2: c1 e1 e1.
+No vocalizations, 40 seconds.
 
-Long pause, 7010.0 seconds.
+Whale 2: e1 e1.
 
-Long pause, 20.0 seconds.
-Whale 1: i1 i1 e1 e1 e1 e1 e1.
+No vocalizations, 1 hour.
+
+Whale 1: i1 i1 e1 e1 e1 e1.
+
+No vocalizations, 20 seconds.
+
+Whale 1: e1.
 Whale 2: e1 e1.
 Whale 1: e1.
 Whale 2: e1.
@@ -2120,15 +2205,14 @@ Whale 2: c1.
 Whale 1: e1.
 Whale 2: e1.
 Whale 1: e1.
-Whale 2: c1 e1 e1 i1 i1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 c1 e1 e1 e1.
 In chorus, whales 1, 2: e1- e1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: e1 K2.
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: e1- c1.
 Whale 1: e1.
-Whale 2: e1.
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: e1 e1.
 Whale 1: e1.
@@ -2144,10 +2228,11 @@ Whale 2: e1.
 Whale 1: e1.
 Whale 2: e1.
 
-Long pause, 14210.0 seconds.
+No vocalizations, 3 hours.
+
 Whale 3: c5.
 Whale 2: c5.
-Whale 3: e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 c5 c5 c5-.
+Whale 3: c5-.
 In chorus, whales 2, 3: c5- c4.
 In chorus, whales 2, 3: c3- c3.
 In chorus, whales 1, 2: c3 Q3.
@@ -2157,9 +2242,10 @@ Whale 2: H5.
 Whale 1: p2.
 Whale 2: c5 h5.
 Whale 1: c5-.
+Whale 2: h5 J5.
 
-Long pause, 625.0 seconds.
-Whale 2: H5 p2 c5 h5 c5- h5 J5.
+No vocalizations, 10 minutes.
+
 In chorus, whales 1, 2: c1 e1.
 Whale 1: e1.
 Whale 2: e1.
@@ -2167,7 +2253,6 @@ Whale 1: e1 e1.
 Whale 2: e1.
 Whale 1: e1.
 Whale 2: e1.
-Whale 1: e1 e1 e1 e1 e1 e1 e1.
 In chorus, whales 1, 2: e1 c3\.
 In chorus, whales 1, 2: e1/ c3.
 In chorus, whales 1, 2: e1 c3\.
@@ -2176,30 +2261,30 @@ Whale 1: e1.
 Whale 2: c3.
 Whale 1: e1 e1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 15.0 seconds.
-In chorus, whales : .
-Whale 2: e1 e1 e1 e1 e1 e1 e1 k1 k1 c1 c1 e1 e1 e1 e1 e1 e1 e1 e1 e1.
+Whale 2: e1 e1 e1 e1 e1 e1 e1 k1 k1.
+
+No vocalizations, 15 seconds.
+
+Whale 2: c1 c1 e1 e1 e1 e1 e1 e1 e1 e1 e1.
+
 
 File: sw097a
-
-Long pause, nan seconds.
 Whale 1: n1.
 Whale 2: e1.
 Whale 1: c1.
 Whale 2: e1.
-Whale 1: n1 e1 c1 e1.
 In chorus, whales 1, 2: e1 e1.
 In chorus, whales 1, 2: c1 e1-.
 In chorus, whales 1, 2: e1 e1-.
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: K1 e1.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: e1.
 Whale 1: e1.
-Whale 2: e1 e1.
 In chorus, whales 1, 2: e1 e1.
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: c3\ e1.
@@ -2207,23 +2292,21 @@ Whale 2: e1.
 Whale 1: e3.
 Whale 2: e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1.
 
-Long pause, 55.0 seconds.
+No vocalizations, 55 seconds.
+
 Whale 1: Q2 c1 c1.
-In chorus, whales : .
 Whale 2: N1 i1 l1 l1.
 
-File: sw100a
 
-Long pause, nan seconds.
+File: sw100a
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5- c5.
+Whale 1: c5.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5- c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5-.
@@ -2232,34 +2315,39 @@ Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5.
 Whale 1: c5.
+Whale 2: c5.
 
-Long pause, 105.0 seconds.
-Whale 2: c5 h5.
+No vocalizations, 1 minute.
+
+Whale 2: h5.
 Whale 3: j5.
 Whale 2: h5/.
-Whale 3: c5 c5- c5 c5- c5 c5 c5 c5 h5 j5 h5/.
 In chorus, whales 2, 3: h5/ j5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: c5 r3/.
+Whale 1: c5.
 
-Long pause, 510.0 seconds.
+No vocalizations, 10 minutes.
 
-Long pause, 10.0 seconds.
-Whale 1: c5 c3 c3 c3 c3 c3 c3 c3 c3 c3.
-Whale 2: c5 c3 c3 c3 c3 c3 c3 c3 c3 c3.
+Whale 1: c3 c3 c3 c3 c3.
+
+No vocalizations, 10 seconds.
+
+Whale 1: c3 c3 c3 c3.
 In chorus, whales 1, 2: c3\ e1.
 In chorus, whales 1, 2: c3 c1.
 In chorus, whales 1, 2: c3\ e1.
 In chorus, whales 1, 2: c3\ e1.
+Whale 2: c1 e1.
 
-Long pause, 20.0 seconds.
-In chorus, whales : .
-Whale 2: c1 e1 e1.
+No vocalizations, 20 seconds.
+
+Whale 2: e1.
+
 
 File: sw100b
-
-Long pause, nan seconds.
 Whale 2: n1.
 Whale 3: l1.
 Whale 2: g1 c1.
@@ -2270,11 +2358,11 @@ Whale 2: i1.
 Whale 3: c1.
 Whale 2: i1.
 
-Long pause, 10.0 seconds.
-Whale 1: n1 l1 g1 c1 c1 K1 n1 c1 i1 c1 i1.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: e1 e1-.
 Whale 1: e1.
-Whale 2: e1 e1.
+Whale 2: e1.
 In chorus, whales 1, 2: c3\ c1.
 In chorus, whales 1, 2: c3\ c1.
 In chorus, whales 1, 2: c3\ e1.
@@ -2283,45 +2371,40 @@ Whale 1: c3 c3 c3.
 Whale 2: e1.
 Whale 1: c3.
 Whale 2: e1/.
-Whale 1: c3 c3 c3 e1 c3 e1/.
 In chorus, whales 1, 2: c3 e1/.
 In chorus, whales 1, 2: c3 e1/.
 In chorus, whales 1, 2: c3\ e1.
 Whale 3: e1.
-Whale 2: e1.
 In chorus, whales 1, 2: e1 e1.
 In chorus, whales 1, 2: e1- e1.
 In chorus, whales 1, 2: e1- e1.
 Whale 2: e1 e1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 1: e1.
 Whale 2: e1.
 Whale 1: e1.
 Whale 2: c1 e1 e1 c1 e1.
 
-Long pause, 9770.0 seconds.
+No vocalizations, 2 hours.
+
 Whale 3: c5.
 Whale 2: c5 c4.
 Whale 3: e1.
-Whale 2: e1 e1 e1 e1 e1 c1 e1 e1 c1 e1 c5 c5 c4 e1.
 In chorus, whales 1, 2: r4- c4.
 In chorus, whales 1, 2: r4 c4-.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c4\ a3.
 In chorus, whales 1, 2: c3 c4\.
 In chorus, whales 1, 2: c3- c3.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c3/ j5.
 In chorus, whales 1, 2: c3 r5\.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c3/ h4.
 In chorus, whales 1, 2: c3 j5\.
 Whale 1: c3.
-Whale 2: c3.
 In chorus, whales 1, 2: c3/ j5.
 Whale 1: c3.
 In chorus, whales 1, 2: c3 G5.
@@ -2330,7 +2413,7 @@ In chorus, whales 1, 2: c3 n5\.
 In chorus, whales 1, 2: c3/ j5.
 Whale 1: c3.
 Whale 2: j5.
-Whale 1: c3 j5 c3.
+Whale 1: c3.
 In chorus, whales 1, 2: c3 h4\.
 Whale 1: c3.
 Whale 2: j5.
@@ -2340,17 +2423,15 @@ Whale 1: c3.
 Whale 2: j5.
 Whale 1: r5.
 
-Long pause, 8175.0 seconds.
+No vocalizations, 2 hours.
+
 Whale 2: c5 c5.
-Whale 3: c3 j5 c3 j5 c3 j5 r5 c5 c5.
 In chorus, whales 2, 3: c5- c5.
 Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
 Whale 3: c5.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
 In chorus, whales 2, 3: c5 c5\.
 Whale 2: c5.
 Whale 3: c5-.
-Whale 2: c5 c5-.
 In chorus, whales 2, 3: c5 c5\.
 In chorus, whales 2, 3: c5 c5-.
 Whale 2: c5.
@@ -2369,84 +2450,88 @@ Whale 2: c5.
 Whale 3: c5.
 Whale 2: c5-.
 Whale 3: c5.
-Whale 2: c5 c5 c5 c5- c5 c5 c5 c5- c5 c5- c5 c5 c5 c5 c5 c5 c5 c5- c5.
 In chorus, whales 2, 3: c5 c5-.
 In chorus, whales 2, 3: c5 c5-.
 In chorus, whales 2, 3: c5 c5-.
 In chorus, whales 2, 3: c5 c5-.
 Whale 3: c5 c5 c5 c5.
 
-Long pause, 525.0 seconds.
-Whale 1: c5 c5 c5 c5 n1 n1.
+No vocalizations, 10 minutes.
+
+Whale 1: n1 n1.
 In chorus, whales 1, 2: c1 c3.
 Whale 1: c1.
 Whale 2: c3.
 Whale 1: q1 q1.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
+
 Whale 2: c3.
 Whale 1: K1.
-Whale 2: c1 c3 q1 q1 c3 K1.
 In chorus, whales 1, 2: c3- c3.
 In chorus, whales 1, 2: c3 c3-.
 In chorus, whales 1, 2: Q3 c3.
 Whale 1: c3.
-In chorus, whales : .
 Whale 2: c3-.
 
-File: sw106a
 
-Long pause, nan seconds.
+File: sw106a
 Whale 1: L1 n1.
 Whale 2: l1.
 Whale 1: l1.
 Whale 2: i1 i1.
 Whale 1: O1 l1.
 Whale 2: e1.
-Whale 1: L1 n1 l1 l1 i1 i1 O1 l1 e1.
 In chorus, whales 1, 2: l1 e1-.
 In chorus, whales 1, 2: o1 a1.
 In chorus, whales 1, 2: i1 Q1.
 Whale 2: e1 e1.
-Whale 1: e1 e1.
 In chorus, whales 1, 2: a3 Q1.
 Whale 1: a3 a3 a3.
 In chorus, whales 1, 2: a3 e1/.
 In chorus, whales 1, 2: a3- q3.
 In chorus, whales 1, 2: a3 q3-.
 Whale 2: c3 c3 c3.
-Whale 3: c3 c3 c3 I1 e1.
+Whale 3: I1 e1.
 In chorus, whales 3, 4: q1 n1-.
 Whale 4: e1.
 In chorus, whales 3, 4: n1- e1.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
 
-Long pause, 6230.0 seconds.
+Whale 1: e1 e1 e1 e1 e1 e1 e1.
 
-Long pause, 14210.0 seconds.
+No vocalizations, 1 hour.
 
-Long pause, 25.0 seconds.
-Whale 1: e1 e1 e1 e1 e1 e1 e1 a5 a5 a5 a5.
+Whale 1: a5.
+
+No vocalizations, 3 hours.
+
+Whale 1: a5 a5.
+
+No vocalizations, 25 seconds.
+
+Whale 1: a5.
 Whale 2: a5 a5 a5.
 Whale 3: c5.
 Whale 2: a5.
 Whale 3: c5-.
 Whale 2: a5.
 Whale 3: c5-.
-Whale 2: e1 e1 e1 e1 e1 e1 e1 a5 a5 a5 a5 a5 a5 a5 c5 a5 c5- a5 c5-.
 In chorus, whales 2, 3: a5 c5-.
 In chorus, whales 2, 3: a4 c3-.
 
-Long pause, 110.0 seconds.
+No vocalizations, 1 minute.
+
 Whale 2: c5 c5 c5 c5.
 
-Long pause, 30.0 seconds.
+No vocalizations, 30 seconds.
+
 Whale 1: d4 c5 c5 c5 c5 p3 K4.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: g5.
-Whale 1: c5 c5 c5 c5 d4 c5 c5 c5 c5 p3 K4 g5.
 In chorus, whales 1, 2: a5 g5\.
 In chorus, whales 1, 2: c5- a5.
 In chorus, whales 1, 2: c5- a5.
@@ -2454,42 +2539,37 @@ Whale 1: c5 a5 C5.
 In chorus, whales 1, 2: a5 r5\.
 In chorus, whales 1, 2: a5 r5\.
 Whale 2: r5.
-Whale 1: r5 a5-.
+Whale 1: a5-.
 In chorus, whales 1, 2: a5 r5\.
 Whale 2: r5 r5 r5.
+Whale 1: c5.
 
-Long pause, 390.0 seconds.
-Whale 1: c5 r3 c1.
+No vocalizations, 5 minutes.
+
+Whale 1: r3 c1.
 Whale 2: i1.
-Whale 3: r5 r5 r5 c5 r3 c1 i1.
 In chorus, whales 3, 4: e1 i1\.
 In chorus, whales 1, 2: e1 i1.
 Whale 2: i1.
-Whale 1: i1.
 In chorus, whales 1, 2: e1 L1.
 In chorus, whales 1, 2: c1 n1.
-In chorus, whales : .
 Whale 1: e1.
 
-File: sw106b
 
-Long pause, nan seconds.
+File: sw106b
 Whale 1: E5.
 Whale 2: o3.
-Whale 1: E5 o3.
 In chorus, whales 1, 2: a4 r4-.
 Whale 2: k1.
 Whale 1: a4.
 Whale 2: c4.
-Whale 1: k1 a4 c4 a4-.
+Whale 1: a4-.
 In chorus, whales 1, 2: a4 c4-.
 Whale 2: c4.
-Whale 1: c4.
 In chorus, whales 1, 2: a4 r4-.
 In chorus, whales 1, 2: a4- r4.
 Whale 1: c4.
 Whale 2: m3/.
-Whale 1: c4 m3/.
 In chorus, whales 1, 2: c5 a5-.
 In chorus, whales 1, 2: a4 r4-.
 Whale 2: R4.
@@ -2498,47 +2578,45 @@ Whale 1: c4.
 Whale 2: a4-.
 Whale 1: c4.
 
-Long pause, 10.0 seconds.
-Whale 2: c4 a4- c4.
+No vocalizations, 10 seconds.
+
 In chorus, whales 1, 2: r3- a4.
 In chorus, whales 1, 2: c3 a3-.
 In chorus, whales 1, 2: c3- a3.
 In chorus, whales 1, 2: K5 a3.
 Whale 2: f2.
 Whale 1: c3.
-Whale 2: f2 c3.
 In chorus, whales 1, 2: a3 E3.
 Whale 1: c3.
 Whale 2: a3-.
 Whale 1: c3.
 Whale 2: a3.
-Whale 1: c3 a3- c3 a3.
 In chorus, whales 1, 2: c3 a3-.
 Whale 3: a5 a5 c5 c5 c5.
 
-Long pause, 30.0 seconds.
+No vocalizations, 30 seconds.
 
-Long pause, 445.0 seconds.
-Whale 1: a5 a5 c5 c5 c5 a5 a5 a5 n1.
+Whale 1: a5 a5 a5.
+
+No vocalizations, 5 minutes.
+
+Whale 1: n1.
 In chorus, whales 1, 2: q1 q1-.
 In chorus, whales 1, 2: c1 q1-.
 In chorus, whales 1, 2: Q1 N1.
 Whale 1: e1.
 Whale 3: o1 n1.
 
-Long pause, 65.0 seconds.
-In chorus, whales : .
+No vocalizations, 1 minute.
+
 Whale 1: e1 e1 e1 e1 e1.
 
-File: sw114a
 
-Long pause, nan seconds.
-In chorus, whales : .
+File: sw114a
 Whale 1: a3.
 
-File: sw114b
 
-Long pause, nan seconds.
+File: sw114b
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5 c5.
 Whale 2: c5.
@@ -2554,7 +2632,6 @@ Whale 1: c5.
 Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5-.
-Whale 1: c5 c5 c5 c5 c5 c5 c5- c5 c5 c5 c5 c5 c5- c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5.
 Whale 2: c5-.
@@ -2563,159 +2640,179 @@ Whale 2: c5-.
 Whale 1: c5.
 Whale 2: c5- c5 c5 c5.
 
-Long pause, 160.0 seconds.
-Whale 1: c5 c5- c5 c5- c5 c5- c5 c5 c5.
+No vocalizations, 2 minutes.
+
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5 c5-.
 Whale 1: c5 Q5 c5.
 
-Long pause, 545.0 seconds.
+No vocalizations, 10 minutes.
+
 Whale 2: c4 c4 c4 c4 c4.
 
-Long pause, 75.0 seconds.
+No vocalizations, 1 minute.
 
-Long pause, 17375.0 seconds.
+Whale 1: c1 c1 c1 c1 c1 c1 c1.
 
-Long pause, 30.0 seconds.
-In chorus, whales : .
-Whale 1: c1 c1 c1 c1 c1 c1 c1 c5 c5 c5.
+No vocalizations, 4 hours.
+
+Whale 1: c5 c5.
+
+No vocalizations, 30 seconds.
+
+Whale 1: c5.
+
 
 File: sw115b
-
-Long pause, nan seconds.
 Whale 2: n1 c1 c1.
 Whale 1: f1.
 Whale 2: c1.
 Whale 1: f1.
 Whale 2: c1.
-Whale 1: n1 c1 c1 f1 c1 f1 c1.
 In chorus, whales 1, 2: f1 e1.
 In chorus, whales 1, 2: f1 e1-.
 Whale 1: f1.
 Whale 3: c1.
 Whale 1: f1.
-Whale 3: f1 c1 f1.
 In chorus, whales 1, 3: f1- c1.
 Whale 3: c1 c1 c1 c1 e1.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: K1 c1 c1 c1 e1.
 Whale 3: C1.
 Whale 2: e1.
-Whale 3: c1 c1 c1 c1 e1 K1 c1 c1 c1 e1 C1 e1.
 In chorus, whales 2, 3: e1- a1.
 In chorus, whales 2, 3: e1 e1-.
 Whale 2: e1.
-Whale 3: e1.
 In chorus, whales 2, 3: e1- e1.
 Whale 2: e1.
 Whale 3: e1.
 Whale 2: e1 e1 Q1.
-In chorus, whales : .
 Whale 3: N1 i1 n1 n1 n1.
 
+
 File: sw119a
+Whale 1: c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, nan seconds.
+No vocalizations, 45 seconds.
 
-Long pause, 45.0 seconds.
+Whale 1: c5 c5 c5 c5 c5.
 
-Long pause, 825.0 seconds.
-Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 m1.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 m1 c4.
+No vocalizations, 15 minutes.
+
+Whale 1: m1.
+Whale 2: c4.
 In chorus, whales 1, 2: m1/ c4.
 Whale 2: c4 c5.
 Whale 1: c5.
 Whale 2: c5.
-Whale 1: c4 c5 c5 c5.
 In chorus, whales 1, 2: c5 c5-.
 In chorus, whales 1, 2: c5- c5.
 Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 70.0 seconds.
+Whale 1: c5 c5 c5 c5 c5 K5.
 
-Long pause, 495.0 seconds.
-Whale 1: c5 c5 c5 c5 c5 K5 c5 c5 e2.
+No vocalizations, 1 minute.
+
+Whale 1: c5 c5.
+
+No vocalizations, 10 minutes.
+
+Whale 1: e2.
 Whale 2: c3.
 Whale 1: e2.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 K5 c5 c5 e2 c3 e2 c3.
+Whale 2: c3.
 In chorus, whales 1, 2: e2- c3.
 Whale 2: c3.
 Whale 1: e2-.
-Whale 2: c3 e2-.
 In chorus, whales 1, 2: e2- c3.
 Whale 3: c5 c5 c5 c5 c5 c5 c5 c5.
 Whale 4: p3 p3 p3.
 Whale 5: p3 p3.
 Whale 6: c5 c5.
 
-Long pause, 185.0 seconds.
+No vocalizations, 3 minutes.
 
-Long pause, 540.0 seconds.
-In chorus, whales : .
-Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 j1 c1 c1 e1 e1 e1 c1 c1 e1 c1 e1 c1 c1 c1 c1 i2 i2.
-
-File: sw119b
-
-Long pause, nan seconds.
-
-Long pause, 45.0 seconds.
 Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 820.0 seconds.
-Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
+No vocalizations, 10 minutes.
+
+Whale 1: j1 c1 c1 e1 e1 e1 c1 c1 e1 c1 e1 c1 c1 c1 c1 i2 i2.
+
+
+File: sw119b
+Whale 1: c5 c5 c5 c5 c5 c5 c5.
+
+No vocalizations, 45 seconds.
+
+Whale 1: c5 c5 c5 c5 c5.
+
+No vocalizations, 15 minutes.
+
 In chorus, whales 1, 2: c4 m1.
 In chorus, whales 1, 2: c4 m1/.
 Whale 1: c4 c5.
 Whale 2: k5.
 Whale 1: c5.
-Whale 2: c4 c5 k5 c5.
 In chorus, whales 1, 2: c5- c5.
 In chorus, whales 1, 2: c5 c5-.
+Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 70.0 seconds.
+Whale 1: c5 c5 c5 c5 c5 K5.
 
-Long pause, 500.0 seconds.
-Whale 1: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 K5 c5 c5 c3.
+No vocalizations, 1 minute.
+
+Whale 1: c5 c5.
+
+No vocalizations, 10 minutes.
+
+Whale 1: c3.
 Whale 10: e2.
 Whale 11: c3.
-Whale 10: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 K5 c5 c5 c3 e2 c3.
 In chorus, whales 10, 11: c3 e2-.
 Whale 11: c3.
 Whale 10: e2/.
-Whale 11: c3 e2/.
 In chorus, whales 10, 11: e2- c3.
 Whale 3: c5 c5 c5 c5 c5 c5 c5 c5.
 Whale 4: p3 p3 p3.
 Whale 5: p3 p3.
 Whale 6: c5 c5.
 
-Long pause, 185.0 seconds.
+No vocalizations, 3 minutes.
+
 Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 540.0 seconds.
-In chorus, whales : .
+No vocalizations, 10 minutes.
+
 Whale 1: j1 c1 c1 e1 e1 e1 c1 c1 e1 c1 e1 c1 c1 c1 c1 i2 i2.
 
+
 File: sw133a
+Whale 1: c1 K1 c1 c1.
 
-Long pause, nan seconds.
+No vocalizations, 40 minutes.
 
-Long pause, 2555.0 seconds.
+Whale 1: c5 c5 c5.
 
-Long pause, 13495.0 seconds.
+No vocalizations, 3 hours.
 
-Long pause, 3145.0 seconds.
-Whale 1: c1 K1 c1 c1 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 h5.
+Whale 1: c5 c5 c5 c5 c5 c5 c5.
 
-Long pause, 110.0 seconds.
+No vocalizations, 50 minutes.
 
-Long pause, 590.0 seconds.
-Whale 2: c1 K1 c1 c1 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 h5 h5.
+Whale 1: h5.
+
+No vocalizations, 1 minute.
+
+Whale 2: h5.
+
+No vocalizations, 10 minutes.
+
 In chorus, whales 1, 2: Q1 c3.
 In chorus, whales 1, 2: e1 c3\.
 In chorus, whales 1, 2: c1/ c3.
@@ -2728,33 +2825,40 @@ Whale 2: c3.
 In chorus, whales 1, 2: c1/ c3.
 In chorus, whales 1, 2: c1 c3\.
 In chorus, whales 1, 2: c1/ c3.
+Whale 1: c1.
 
-Long pause, 10.0 seconds.
-Whale 1: c1 c1 c1.
+No vocalizations, 10 seconds.
 
-Long pause, 10.0 seconds.
-Whale 2: c3 c3 c3 c3.
-Whale 1: c1 c1 c1 c3 c3 c3 c3.
+Whale 1: c1 c1.
+Whale 2: c3.
+
+No vocalizations, 10 seconds.
+
+Whale 2: c3 c3 c3.
 In chorus, whales 1, 2: c1 c3\.
 In chorus, whales 1, 2: c1 c3\.
 
-Long pause, 15.0 seconds.
-In chorus, whales : .
+No vocalizations, 15 seconds.
+
 Whale 2: c1 c1.
 
+
 File: sw133b
+Whale 2: c4 c4 c4 c4 c4 c4 c4 c4 c4.
 
-Long pause, nan seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 10.0 seconds.
-Whale 2: c4 c4 c4 c4 c4 c4 c4 c4 c4 c4.
+Whale 2: c4.
 Whale 1: r1.
+Whale 2: c4 c4 c4 c4.
 
-Long pause, 235.0 seconds.
+No vocalizations, 3 minutes.
 
-Long pause, 2240.0 seconds.
-Whale 2: c4 c4 c4 c4 c5 c5 c5 c5 c5.
-Whale 3: c4 c4 c4 c4 c4 c4 c4 c4 c4 c4 r1 c4 c4 c4 c4 c5 c5 c5 c5 c5.
+Whale 2: c5 c5 c5.
+
+No vocalizations, 35 minutes.
+
+Whale 2: c5 c5.
 In chorus, whales 2, 3: c5- c5.
 In chorus, whales 2, 3: c5 c5-.
 In chorus, whales 2, 3: c5 c5-.
@@ -2768,23 +2872,28 @@ Whale 2: c5.
 Whale 3: c5.
 Whale 2: c5.
 Whale 3: c5.
+Whale 2: c5 c5.
 
-Long pause, 20.0 seconds.
+No vocalizations, 20 seconds.
 
-Long pause, 100.0 seconds.
-Whale 2: c5 c5- c5 c5- c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
+Whale 2: c5 c5 c5 c5.
+
+No vocalizations, 1 minute.
+
+Whale 2: c5 c5 c5.
 In chorus, whales 2, 3: c5 c5-.
 In chorus, whales 2, 3: c5- c5.
 In chorus, whales 2, 3: c5- c5.
 In chorus, whales 2, 3: c5- c5.
 
-Long pause, 15.0 seconds.
+No vocalizations, 15 seconds.
+
 Whale 2: g5.
 Whale 3: h5/.
-Whale 2: g5 h5/.
 In chorus, whales 2, 3: R5 g5.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
+
 Whale 2: g5.
 Whale 3: c5.
 Whale 2: r5.
@@ -2792,8 +2901,8 @@ Whale 3: c5.
 Whale 2: r5.
 Whale 3: c5 c5.
 
-Long pause, 680.0 seconds.
-Whale 2: g5 c5 r5 c5 r5 c5 c5.
+No vocalizations, 10 minutes.
+
 In chorus, whales 2, 3: n1 n1-.
 In chorus, whales 2, 3: c3 n1/.
 Whale 2: c3.
@@ -2802,20 +2911,22 @@ Whale 2: c3.
 Whale 3: e1/.
 Whale 2: c1 c1 e1.
 Whale 3: c3.
-Whale 2: c3 c1/ c3 e1/ c1 c1 e1 c3.
 In chorus, whales 2, 3: e1 c3\.
 In chorus, whales 2, 3: c1 c3\.
 Whale 2: c3 c3.
 Whale 3: e1.
-Whale 2: c3 c3 e1.
 In chorus, whales 2, 3: c3 e1/.
 In chorus, whales 2, 3: c3 c3-.
 In chorus, whales 2, 3: c3 c3-.
+Whale 2: c3 c3.
 
-Long pause, 2305.0 seconds.
+No vocalizations, 40 minutes.
 
-Long pause, 520.0 seconds.
-Whale 2: c3 c3 c5 c5 c5 c5 c5 c5 c5 c5 c5 c5 j5.
+Whale 2: c5 c5 c5 c5 c5 c5 c5 c5 c5 c5.
+
+No vocalizations, 10 minutes.
+
+Whale 2: j5.
 In chorus, whales 2, 3: g5 h5-.
 Whale 2: r5 k1 c5.
 Whale 3: c4.
@@ -2825,22 +2936,23 @@ Whale 2: c4.
 Whale 3: r5.
 Whale 2: c4 c4.
 Whale 3: r5\.
-Whale 2: r5 k1 c5 c4 c4 r5 c4 r5 c4 c4 r5\.
 In chorus, whales 2, 3: c4 c4-.
 In chorus, whales 2, 3: c5 c5-.
 In chorus, whales 2, 3: c5 c5-.
 Whale 2: c5.
 Whale 3: c5.
+Whale 2: j5.
 
-Long pause, 440.0 seconds.
+No vocalizations, 5 minutes.
 
-Long pause, 10.0 seconds.
-Whale 2: c5 c5 j5 n1 n1 n1 n3 c1 c1.
+Whale 2: n1 n1 n1 n3 c1 c1.
+
+No vocalizations, 10 seconds.
+
 In chorus, whales 2, 3: c1 e3\.
 In chorus, whales 2, 3: Q1 c3.
 Whale 3: c3.
 Whale 2: e1/.
-Whale 3: c3 e1/.
 In chorus, whales 2, 3: e1/ c3.
 In chorus, whales 2, 3: c1/ c3.
 Whale 3: c3.
@@ -2848,18 +2960,20 @@ Whale 2: e1.
 Whale 3: c3 c3.
 Whale 2: e1.
 Whale 3: c3.
+Whale 2: K3 e1 e1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 6720.0 seconds.
-In chorus, whales : .
-Whale 2: K3 e1 e1 i1 c5 c5 c5 c5 c5 c5 c5.
+Whale 2: i1.
+
+No vocalizations, 1 hour.
+
+Whale 2: c5 c5 c5 c5 c5 c5 c5.
+
 
 File: sw134a
-
-Long pause, nan seconds.
 Whale 1: j5 R5.
-Whale 2: j5 R5 c5.
+Whale 2: c5.
 In chorus, whales 1, 2: g5\ c4.
 Whale 1: c3.
 Whale 2: c4.
@@ -2872,26 +2986,31 @@ Whale 2: r5.
 Whale 1: c3/ c3.
 Whale 2: r5.
 
-Long pause, 265.0 seconds.
+No vocalizations, 4 minutes.
+
 Whale 1: c3 c3.
 Whale 2: n1.
 Whale 1: c3.
-Whale 2: c3 c4 c3- b3 c3 c3 c3- c3 r5 c3/ c3 r5 c3 c3 n1 c3.
 In chorus, whales 1, 2: c3 n1.
 In chorus, whales 1, 2: c3 n1/.
 In chorus, whales 1, 2: c3 L1.
 In chorus, whales 1, 2: c3 i1/.
+Whale 2: c1 e1 c1.
 
-Long pause, 10.0 seconds.
+No vocalizations, 10 seconds.
 
-Long pause, 35.0 seconds.
-Whale 2: c1 e1 c1 e1.
+Whale 2: e1.
+
+No vocalizations, 35 seconds.
+
 In chorus, whales 2, 3: c3 e1/.
 Whale 2: c3.
 Whale 3: e1.
 Whale 2: c3.
 Whale 3: e1.
 
-Long pause, 30.0 seconds.
-In chorus, whales : .
+No vocalizations, 30 seconds.
+
 Whale 2: c1 c1 c1.
+
+
