@@ -95,6 +95,7 @@ def interrupted(i):
 
 def get_rubato():
     """
+    NOTE: I COULD NOT EXACTLY FIGURE OUT HOW TO GET RUBATO, SO I"VE ABANDONED THIS FOR NOW, IT'S UNUSED
     Return the category of rubato for each coda in the dataset as a list.
     Rubato is the relationship (change in duration) between "interrupted" codas
     """
@@ -129,8 +130,8 @@ def get_rubato():
 
     return rubato_binned
 
-# Add Rubato to data
-data['Rubato'] = get_rubato()
+# Add Rubato to data # NOTE: REMOVING THIS FOR NOW AS WAS NOT CORRECT
+data['Rubato'] = [''] * len(get_rubato()) # (no rubato ever added)
 
 # Create the DataFrame
 df = pd.DataFrame(data)
@@ -157,7 +158,7 @@ def construct_string(data):
     """
     print(data['Rhythm'])
     rhythm = chr(ord('a') + data['Rhythm']).upper() if data['Extra Click'] == 1 else chr(ord('a') + data['Rhythm'])
-    return rhythm + str(data['Tempo'] + 1) + data['Rubato']
+    return rhythm + str(data['Tempo'] + 1) #+ data['Rubato'] REMOVED THE RUBATO AS WASN'T WORKING
 
 # Create new column 'ConstructedString'
 df['ConstructedString'] = df.apply(construct_string, axis=1)
