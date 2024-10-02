@@ -115,13 +115,13 @@ def determine_rubato(word_string_previous, word_string, click_times_previous, cl
         coda_duration_without_ornament_previous = click_times_previous[-2]
     else:
         coda_duration_without_ornament_previous = click_times_previous[-1]
-    # print(word_string_previous.lower()[0:3]) # no rubato
-    # print(word_string.lower()[0:3]) # no rubato
-    # print()
-    rhythm_previous = word_string_previous.lower()[0:2]
-    rhythm = word_string.lower()[0:2]
-    tempo_previous = word_string_previous.lower()[0:2]
-    tempo = word_string.lower()[0:2]
+
+
+
+    rhythm_previous = word_string_previous.lower()[0]
+    rhythm = word_string.lower()[0]
+    tempo_previous = word_string_previous.lower()[1]
+    tempo = word_string.lower()[1]
 
     # the supplement to the paper defines rubato as change of duration within the same tempo and rhythm class
     # however, a histogram statistical plot of the duration delta does not show any sort of bimodal results when
